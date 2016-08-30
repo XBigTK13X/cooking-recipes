@@ -1,0 +1,25 @@
+name: strawberry shortcake biscuits
+ingredients:
+  - name: ap flour
+    amount: 3
+    unit: cup
+  - name: baking powder
+    amount: 6
+    unit: teaspoon
+  - name: salt
+    amount: 1 and 1/2
+    unit: teaspoon
+  - name: sugar
+    amount: 3
+    unit: tablespoon
+  - name: butter
+    amount: 6
+    unit: tablespoon
+  - name: milk
+    amount: 1 and 1/4
+    unit:  cup
+steps:
+  - step: Preheat oven to 450 
+  - step: Mix all ingredients together in a bowl
+  - step: Spoon 12 biscuits onto a cookie sheet
+  - step: Bake for 12 to 12 minutes or until golden brown

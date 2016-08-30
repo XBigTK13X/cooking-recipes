@@ -15,7 +15,7 @@ ingredients:
     amount: 4
   - name: chocolate syrup
     amount: 16
-    unit: oz
+    unit: ounce
 steps:
   - step: Heat oven to 350
   - step: Grease a 13x9x2 inch pan

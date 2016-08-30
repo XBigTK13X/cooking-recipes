@@ -1,0 +1,30 @@
+name: blond brownies
+ingredients:
+  - name: shortening
+    amount: 2/3
+    unit: cup
+  - name: brown sugar
+    amount: 1
+    unit: pound
+  - name: eggs
+    amount: 3
+  - name: ap flour
+    amount: 2 and 3/4
+    unit: cups
+  - name: baking powder
+    amount: 2 and 1/2
+    unit: teaspoons
+  - name: salt
+    amount: 1/2
+    unit: teaspoon
+  - name: chocolate chips
+    amount: 12
+    unit: ounces
+  - name: vanilla
+    amount: 1
+    unit: teaspoon
+steps:
+  - step: Heat oven to 325
+  - step: Cream the shortening, brown sugar, and eggs in a mixer
+  - step: Mix in the flour, baking powder, salt, vanilla, and chocolate chips
+  - step: Bake for 20-25 minutes or until golden brown  
