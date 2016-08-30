@@ -1,5 +1,7 @@
 from jinja2 import Environment, FileSystemLoader
 
+import shutil
+
 import yaml
 
 import os
@@ -25,7 +27,14 @@ for root, dirs, files in os.walk(RECIPE_DIR):
 			recipe = yaml.load(stream)
 			payload['recipes'].append(recipe)
 
-import pprint
-pprint.pprint(payload)
+landingHtml = templateCache['index.jinja'].render(payload=payload)
 
-print(templateCache['index.jinja'].render(payload=payload))
+try:
+	shutil.rmtree('dist')
+except Exception as e:
+	swallow = True
+
+shutil.copytree('site','dist')
+
+with open('dist/index.html','w') as stream:
+	stream.write(landingHtml)
