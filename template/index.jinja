@@ -1,4 +1,6 @@
 {% extends "default.jinja" %}
+{% block content %}
 {% for recipe in payload.recipes %}
 	<p>{{recipe.name}}</p>
 {% endfor %}
+{% endblock %}
