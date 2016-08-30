@@ -25,6 +25,12 @@ for root, dirs, files in os.walk(RECIPE_DIR):
 	for file in files:
 		with open(os.path.join(root,file), 'r') as stream:
 			recipe = yaml.load(stream)
+			recipe['title'] = recipe['name'].title()
+			recipe['slug'] = recipe['name'].replace(' ','-')
+			if 'subrecipes' in recipe:
+				for subrecipe in recipe['subrecipes']:
+					subrecipe['title'] = subrecipe['name'].title()
+					subrecipe['slug'] = subrecipe['name'].replace(' ','-')
 			payload['recipes'].append(recipe)
 
 landingHtml = templateCache['index.jinja'].render(payload=payload)
@@ -38,3 +44,6 @@ shutil.copytree('site','dist')
 
 with open('dist/index.html','w') as stream:
 	stream.write(landingHtml)
+
+import pprint
+pprint.pprint(payload)

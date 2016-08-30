@@ -1,7 +1,41 @@
 {% extends "default.jinja" %}
+
 {% block content %}
+
+<h1>Kretschmer Family Recipes</h1>
+
+<ul>
 {% for recipe in payload.recipes %}
-	<p>{{recipe.name}}</p>
+	<li><a href="#{{recipe.slug}}">{{recipe.title}}</a></li>
+{% endfor %}
+</ul>
+<hr/>
+<div class="pagebreak"> </div>
+
+{% for recipe in payload.recipes %}
+	<h2><a href="#{{recipe.slug}}" name="{{recipe.slug}}">{{recipe.title}}</a></h2>
+	
+	<ul>
+	{% for ingredient in recipe.ingredients %}
+		<li>{{ingredient.amount}} {{ingredient.unit}} {{ingredient.name}}</li>
+	{% endfor %}
+	</ul>
+
+	<ol>
+	{% for step in recipe.steps %}
+		<li>{{step.step}}</li>
+	{% endfor %}
+	</ol>
+
+	{% if recipe.subrecipes %}
+	<ul>
+		{% for subrecipe in recipe.subrecipes %}
+			<li><a href="#{{subrecipe.slug}}">{{subrecipe.title}}</a></li>
+		{% endfor %}
+	</ul>
+	{% endif %}
+	
 	<div class="pagebreak"> </div>
 {% endfor %}
+
 {% endblock %}
