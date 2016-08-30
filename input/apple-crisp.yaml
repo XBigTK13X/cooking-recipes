@@ -1,0 +1,33 @@
+name: apple crisp
+ingredients:
+  - name: apples
+    amount: 4
+    prep: thinly sliced
+  - name: water
+    amount: 1/4
+    unit: cup
+  - name: cinnamon
+    amount: 1
+    unit: teaspoon
+  - name: salt
+    amount: 1/2
+    unit: teaspoon
+  - name: sugar
+    amount: 1
+    unit: cup
+  - name: ap flour
+    amount: 3/4
+    unit: cup
+  - name: butter
+    amount: 1/3
+    unit: cup
+    prep: softened
+steps:
+  - step: Preheat oven to 350
+  - step: Grease an 8x8x2 inch pan
+  - step: Spread apple slices evenly throughout pan
+  - step: Mix water, cinnamon, and salt in a bowl
+  - step: Pour cinnamon mixture over apples
+  - step: Mix sugar, flour, and butter in a bowl
+  - step: Spread crumb mixture over the apples
+  - step: Bake for 40 minutes or until crumb is golden brown
