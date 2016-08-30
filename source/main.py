@@ -16,10 +16,8 @@ for root, dirs, files in os.walk(TEMPLATE_DIR):
 	for file in files:		
 		templateCache[file] = templates.get_template(file)
 
-payload = {
-	'recipes':[]
-}
 
+recipes = []
 # Create a top-level directory of recipes for the index
 for root, dirs, files in os.walk(RECIPE_DIR):
 	for file in files:
@@ -31,7 +29,13 @@ for root, dirs, files in os.walk(RECIPE_DIR):
 				for subrecipe in recipe['subrecipes']:
 					subrecipe['title'] = subrecipe['name'].title()
 					subrecipe['slug'] = subrecipe['name'].replace(' ','-')
-			payload['recipes'].append(recipe)
+			recipes.append(recipe)
+
+recipes = sorted(recipes, key=lambda k: k['slug'])
+
+payload = {
+	'recipes':recipes
+}
 
 landingHtml = templateCache['index.jinja'].render(payload=payload)
 
