@@ -8,6 +8,7 @@ import os
 
 TEMPLATE_DIR = 'template'
 RECIPE_DIR = 'input'
+SITE_ROOT = 'docs'
 
 templateCache = {}
 templates = Environment(loader=FileSystemLoader('template'))
@@ -45,11 +46,11 @@ payload = {
 landingHtml = templateCache['index.jinja'].render(payload=payload)
 
 try:
-	shutil.rmtree('dist')
+	shutil.rmtree(SITE_ROOT)
 except Exception as e:
 	swallow = True
 
-shutil.copytree('site','dist')
+shutil.copytree('site',SITE_ROOT)
 
-with open('dist/index.html','w') as stream:
+with open(SITE_ROOT+'/index.html','w') as stream:
 	stream.write(landingHtml)
