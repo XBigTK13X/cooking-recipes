@@ -1,0 +1,39 @@
+name: easy oreo cheesecake
+ingredients:
+  - name: oreo sandwich cookies
+    amount: 18
+    unit: ounces
+  - name: butter
+    amount: 1/4
+    unit: cup
+    prep: melted
+  - name: cream cheese
+    amount: 32
+    unit: ounces
+    prep: softened
+  - name: sugar
+    amount: 1 
+    unit: cup
+  - name: vanilla
+    amount: 1 
+    unit: teaspoon
+  - name: sour cream
+    amount: 1
+    unit: cup
+  - name: eggs
+    amount: 4
+steps:
+  - step: Preheat oven to 325
+  - step: Pulse 30 oreo cookies in a food processor until finely ground
+  - step: Pulse in the melted butter to form a crumb
+  - step: Line a 13x9 inch baking pan with aluminum foil, leave some foil hanging over the edges of the pan
+  - step: Firmly press oreo crust into bottom of greased baking pan 
+  - step: Beat cream cheese, sugar, and vanilla until well blended
+  - step: Mix sour cream into cream cheese mixture
+  - step: Mix in eggs one at a time
+  - step: Chop remaining oreo cookies
+  - step: Gently fold 1 and 1/2 cups of chopped cookies into the cream cheese mixture
+  - step: Pour mixture into pan with the crust
+  - step: Sprinkle pan with the remaining chopped cookies
+  - step: Bake for 45 minutes or until the center is almost set
+  - step: Let the cheesecake cool and then refrigerate for at least 3 hours, preferabley overnight  
