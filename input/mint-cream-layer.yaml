@@ -1,0 +1,20 @@
+name: mint cream layer
+ingredients:
+  - name: confectioners' sugar
+    amount: 2
+    unit: cup
+  - name: butter
+    amount: 1/2
+    unit: cup
+    prep: softened
+  - name: water
+    amount: 1
+    unit: tablespoon
+  - name: mint extract
+    amount: 1/2
+    unit: teaspoon
+  - name: green food coloring
+    unit: drop
+    amount: 3
+steps:
+  - step: Beat ingredients in a mixing bowl until smooth

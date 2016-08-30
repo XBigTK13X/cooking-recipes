@@ -1,0 +1,32 @@
+makes: 12 servings
+name: "Hershey's Double Chocolate Mint Dessert"
+ingredients:
+  - name: ap flour
+    amount: 1
+    unit: cup
+  - name: sugar
+    amount: 1
+    unit: cup
+  - name: butter
+    amount: 1/2
+    unit: cup
+    prep: softened
+  - name: eggs
+    amount: 4
+  - name: chocolate syrup
+    amount: 16
+    unit: oz
+steps:
+  - step: Heat oven to 350
+  - step: Grease a 13x9x2 inch pan
+  - step: In a mixing bowl, beat flour, sugar, butter, eggs, and syrup until smooth
+  - step: Pour batter into prepared pan
+  - step: Spread Mint Cream Layer on Cake
+  - step: Refridgerate until chilled
+  - step: Spread Chocolate topping over dessert until chilled
+references:
+	- name: mint cream layer
+	- name: chocolate topping
+
+
+

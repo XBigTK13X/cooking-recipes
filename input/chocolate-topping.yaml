@@ -1,0 +1,11 @@
+name: chocolate topping
+ingredients:
+  - name: butter
+    amount: 6
+    unit: tablespoon
+  - name: mint chocolate chips
+    amount: 1
+    unit: cup
+steps:
+  - step: Microwave ingredients in a bowl, stirring every 30 seconds
+  - step: Stop microwaving once the mixture is smooth
