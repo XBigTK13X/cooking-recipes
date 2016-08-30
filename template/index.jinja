@@ -1,0 +1,4 @@
+{% extends "default.jinja" %}
+{% for recipe in payload.recipes %}
+	<p>{{recipe.name}}</p>
+{% endfor %}

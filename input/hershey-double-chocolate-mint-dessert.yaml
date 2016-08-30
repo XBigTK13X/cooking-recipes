@@ -1,5 +1,5 @@
 makes: 12 servings
-name: "Hershey's Double Chocolate Mint Dessert"
+name: double chocolate mint dessert
 ingredients:
   - name: ap flour
     amount: 1
@@ -24,7 +24,7 @@ steps:
   - step: Spread Mint Cream Layer on Cake
   - step: Refridgerate until chilled
   - step: Spread Chocolate topping over dessert until chilled
-references:
+subrecipes:
 	- name: mint cream layer
 	- name: chocolate topping
 
