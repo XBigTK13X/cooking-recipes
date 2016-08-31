@@ -1,0 +1,21 @@
+name: symphony brownies
+ingredients:
+  - name: betty crocker brownie mix
+    amount: 22.5
+    unit: ounces
+  - name: hershey's syrup
+    amount: included in brownie mix box
+  - name: symphony [chocolate bar with almond and toffee bits]
+    amount: 3
+    unit: bars
+  - name: walnut
+    amount: 1/4
+    unit: cup
+    prep: chopped
+steps:
+  - step: Prepare brownie batter as per instructions on the box
+  - step: Pour half of the batter into a 9x13 baking pan
+  - step: Place the three candy bars across the batter
+  - step: Pour the remaining batter into the pan
+  - step: Sprinkle chooped nuts over the batter
+  - step: Bake the brownies as per instructions on the box

@@ -1,0 +1,37 @@
+name: apple sauce cake
+ingredients:
+  - name: sugar
+    amount: 1
+    unit: cup
+  - name: shortening
+    amount: 1/2
+    unit: cup
+  - name: salt
+    amount: 1/4
+    unit: teaspoon
+  - name: cinnamon
+    amount: 1
+    unit: teaspoon
+  - name: baking soda
+    amount: 1
+    unit: teaspoon
+  - name: sour apple sauce
+    amount: 1
+    unit: cup
+    prep: cold
+  - name: ap flour
+    amount: 1 and 3/4
+    unit: cup
+  - name: water
+    amount: 2
+    unit: teaspoon
+    prep: warm
+steps:
+  - step: Preheat oven to 300
+  - step: Cream the shortening, sugar, salt, and cinnamon
+  - step: Dissolve baking soda into warm water
+  - step: Stir baking soda mixture into apple sauce
+  - step: Mix the apple sauce mixture into the creamed base
+  - step: Stir in the flour
+  - step: Pour batter into a loaf pan
+  - step: Bake for 50 minutes or until the middle has set
