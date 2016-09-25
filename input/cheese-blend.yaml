@@ -1,0 +1,11 @@
+name: cheese blend
+ingredients:
+  - name: extra sharp cheddar cheese
+    amount: 2
+    unit: parts
+  - name: monteray jack cheese
+    amount: 1
+    unit: part
+steps:
+  - step: Grate both cheeses
+  - step: Toss grated cheeses together

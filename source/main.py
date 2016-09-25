@@ -26,14 +26,14 @@ for root, dirs, files in os.walk(RECIPE_DIR):
 			continue
 		with open(os.path.join(root,file), 'r') as stream:
 			recipe = yaml.load(stream)
-			recipe['title'] = recipe['name'].title()
+			recipe['title'] = recipe['name'].title().replace("'S ","'s ")
 			recipe['slug'] = recipe['name'].replace(' ','-')
 			ingredients = recipe['ingredients']
 			ingredients = sorted(ingredients, key=lambda k: k['name'])
 			recipe['ingredients'] = ingredients
 			if 'subrecipes' in recipe:
 				for subrecipe in recipe['subrecipes']:
-					subrecipe['title'] = subrecipe['name'].title()
+					subrecipe['title'] = subrecipe['name'].title().replace("'S ","'s ")
 					subrecipe['slug'] = subrecipe['name'].replace(' ','-')
 			recipes.append(recipe)
 

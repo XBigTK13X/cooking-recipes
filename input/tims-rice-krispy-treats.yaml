@@ -1,0 +1,23 @@
+name: tim's rice krispy treats
+makes: 20 treats
+ingredients:
+  - name: marshmallow
+    amount: 16
+    unit: oz
+  - name: rice krispy cereal
+    amount: 6.4
+    unit: oz
+  - name: butter
+    amount: 3.2
+    unit: oz
+steps:
+  - step: In a medium pot, melt the butter on the lowest heat setting
+  - step: Add the marshmallows to the pot
+  - step: Still on the lowest heat setting, stir the marshmallows until completely melted and mixed with the butter
+  - step: Take the pot off the heat, and quickly yet gently fold in the rice krispy cereal
+  - step: Immediately after the cereal is mixed, gently dump the mix into a greased 9 x 13 baking dish
+  - step: It is critical that you don't press the mix into the pan, but rather tap the mix gently to evently distribute
+  - step: Let the treats cool for 5 minutes, and then flip onto a greased cutting board
+  - step: After 30 minutes, the mix will have cooled enough for you to cut
+  - step: Cut the treats into 20 servings
+  - step: Once the treats are cool to the touch, they can be stored
