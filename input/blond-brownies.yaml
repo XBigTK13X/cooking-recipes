@@ -11,7 +11,7 @@ ingredients:
   - name: ap flour
     amount: 2 and 3/4
     unit: cups
-  - name: baking powder
+  - name: powder of baking
     amount: 2 and 1/2
     unit: teaspoons
   - name: salt
@@ -26,5 +26,5 @@ ingredients:
 steps:
   - step: Heat oven to 325
   - step: Cream the shortening, brown sugar, and eggs in a mixer
-  - step: Mix in the flour, baking powder, salt, vanilla, and chocolate chips
+  - step: Mix in the flour, powder of baking, salt, vanilla, and chocolate chips
   - step: Bake for 20-25 minutes or until golden brown  

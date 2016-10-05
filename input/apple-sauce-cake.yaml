@@ -12,7 +12,7 @@ ingredients:
   - name: cinnamon
     amount: 1
     unit: teaspoon
-  - name: baking soda
+  - name: soda of baking
     amount: 1
     unit: teaspoon
   - name: sour apple sauce
@@ -29,8 +29,8 @@ ingredients:
 steps:
   - step: Preheat oven to 300
   - step: Cream the shortening, sugar, salt, and cinnamon
-  - step: Dissolve baking soda into warm water
-  - step: Stir baking soda mixture into apple sauce
+  - step: Dissolve soda of baking into warm water
+  - step: Stir soda of baking mixture into apple sauce
   - step: Mix the apple sauce mixture into the creamed base
   - step: Stir in the flour
   - step: Pour batter into a loaf pan
