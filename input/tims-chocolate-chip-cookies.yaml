@@ -1,0 +1,48 @@
+name: tim's chocolate chip cookies
+makes: 12 cookies
+ingredients:
+  - name: ap flour
+    amount: 1
+    unit: cup
+  - name: ap flour
+    amount: 2
+    unit: tablespoons
+  - name: soda of baking
+    amount: 1/2
+    unit: teaspoon
+  - name: 1/2
+    amount: cup
+    unit: butter
+  - name: sugar
+    amount: 2
+    unit: tablespoon
+  - name: light brown sugar
+    amount: 1/4
+    unit: cup
+  - name: light brown sugar
+    amount: 2
+    unit: tablespoon
+  - name: vanilla instant pudding mix
+    amount: 1/4
+    unit: cup
+  - name: egg
+    amount: 1
+  - name: vanilla
+    amount: 1/2
+    unit: teaspoon
+  - name: mini chocolate chips
+    amount: 1/2
+    unit: cup
+steps:
+  - step: Preheat oven to 350
+  - step: Mix flour and soda of baking in a bowl and set aside
+  - step: Cream the butter, light brown sugar, and sugar in a mixer
+  - step: Mix in pudding mix
+  - step: Mix in egg and vanilla
+  - step: Gently mix in chocolate chips
+  - step: Using latex gloves, drop 12 balls of dough onto a nonstick cookie sheet
+  - step: Still with gloved hands, quickly roll each drop of dough into a smooth ball
+  - step: Evenly space the balls on the cookie sheet
+  - step: Bake the cookies for 12 minutes, or until the bottoms are barely golden brown
+  - step: Quickly move the cookies from the sheet pan onto a cooling rack lined with parchment
+  - step: Note that the cookies should appear slightly undercooked, do not put them back in the oven
