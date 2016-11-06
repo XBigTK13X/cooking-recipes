@@ -1,0 +1,40 @@
+name: rubble
+makes: 50 pieces
+ingredients:
+  - name: butter
+    amount: 2
+    unit: tablespoon
+  - name: marshmallow
+    amount: 2
+    unit: cup
+  - name: dark chocolate
+    amount: 1/4
+    unit: cup
+  - name: coconut oil
+    amount: 1.5
+    unit: tablespoon
+  - name: krispy rice
+    amount: 1
+    unit: cup
+  - name: peanut butter
+    amount: 2
+    unit: tablespoon
+  - name: cocoa powder
+    amount: 2
+    unit: tablespoon
+  - name: powdered sugar
+    amount: 1
+    unit: tablespoon
+  - name: salt
+    amount: 1
+    unit: teaspoon
+steps:
+  - step: Melt the butter in a pot
+  - step: On low heat, melt the marshmallow into the butter
+  - step: Melt in the peanut butter and dark chocolate
+  - step: Remove from heat and stir in the rice krispy 
+  - step: Cover your fingers in coconut oil
+  - step: Pinch portions of dough and shape them into rough balls 
+  - step: Combine the cocoa powder, powdered sugar, and salt in a tupperware container
+  - step: In batches small enough to fit in the container, add balls into the powder mix and shake to coat
+  - step: Refrigerate the coated balls
