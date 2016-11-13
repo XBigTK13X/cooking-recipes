@@ -1,0 +1,36 @@
+name: alton brown's southern biscuits
+ingredients:
+  - name: ap flour
+    amount: 12
+    unit: ounces
+  - name: powder of baking
+    amount: 4
+    unit: teaspoons
+  - name: soda of baking
+    amount: 1/4
+    unit: teaspoon
+  - name: salt
+    amount: 3/4
+    unit: teaspoon
+  - name: sugar
+    amount: 2
+    unit: tablespoon
+  - name: butter
+    amount: 1
+    unit: ounce
+  - name: shortening (crisco)
+    amount: 2
+    unit: ounces
+  - name: buttermilk
+    amount: 8
+    unit: ounces
+steps:
+  - step: Preheat the oven to 400 degrees
+  - step: Whisk together the dry ingredients
+  - step: Cut in the shortening and butter using a whisk until you have coarse crumbs
+  - step: Make a well and combine the buttermilk and the dry ingredients with a spoon
+  - step: Knead the dough in the bowl with your hands until no loose flour remains in the bowl
+  - step: Turn the dough out onto a floured surface and gently knead it for a minute or so, until you have folded it and the dough is consistent
+  - step: Roll out the dough, then cut out as many biscuits rounds as you can, then fold the dough and repeat the process until no dough remains
+  - step: Place the cut out biscuits onto a biscuit sheet so that they barely touch
+  - step: Bake for 20 minutes
