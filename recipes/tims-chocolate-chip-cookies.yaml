@@ -10,9 +10,9 @@ ingredients:
   - name: soda of baking
     amount: 1/2
     unit: teaspoon
-  - name: 1/2
-    amount: cup
-    unit: butter
+  - name: butter
+    amount: 1/2
+    unit: cup
   - name: sugar
     amount: 2
     unit: tablespoon
@@ -39,6 +39,7 @@ steps:
   - step: Cream the butter, light brown sugar, and sugar in a mixer
   - step: Mix in pudding mix
   - step: Mix in egg and vanilla
+  - step: Barely mix in the combined ap flour and soda of baking
   - step: Gently mix in chocolate chips
   - step: Using latex gloves, drop 12 balls of dough onto a nonstick cookie sheet
   - step: Still with gloved hands, quickly roll each drop of dough into a smooth ball
