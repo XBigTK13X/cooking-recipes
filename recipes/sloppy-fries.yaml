@@ -1,0 +1,41 @@
+name: sloppy fries
+ingredients:
+  - name: lean ground beef
+    amount: 1
+    unit: pound
+  - name: manwich sauce
+    amount: 16
+    unit: ounces
+  - name: crinkle cut french fries
+    amount: 16
+    unit: ounces
+    prep: frozen
+  - name: fresh garlic
+    amount: 1
+    unit: tablespoon
+    prep: minced
+  - name: fresh flat parsley
+    amount: 1
+    unit: tablespoon
+    prep: minced
+  - name: light olive oil
+    amount: 1
+    unit: tablespoon
+  - name: cheese blend
+    amount: 1/4
+    unit: cup
+  - name: ketchup
+    amount: 1/8
+    unit: cup
+steps:
+  - step: Prepare the fries as instructed on the bag
+  - step: While the fries are cooking, brown the ground beef in a pan
+  - step: Once the beef is browned, add the manwich sauce to the pan. Cover and barely simmer.
+  - step: While the fries continue cooking, combine the olive oil, garlic, parsley, and salt and pepper to taste in a large bowl
+  - step: Immediately after the fries are finished cooking, coat them evenly with the oil mixture by tossing them in the bowl
+  - step: Plate the fries and cover with a quick zig zag of ketchup
+  - step: Scoop the sloppy joe over the ketchuped fries
+  - step: Sprinkle the cheese blend over the sloppy joe mix
+  - step: Give the dish another quick zig zag of ketchup
+subrecipes:
+    - name: cheese blend
