@@ -5,14 +5,14 @@ ingredients:
     amount: 5.75
     unit: ounces
   - name: soda of baking
-    amount: 1/2
-    unit: teaspoon
+    amount: 3
+    unit: grams
   - name: butter
-    amount: 1/2
-    unit: cup
+    amount: 4
+    unit: ounces
   - name: sugar
-    amount: 2
-    unit: tablespoon
+    amount: 1
+    unit: ounce
   - name: light brown sugar
     amount: 3
     unit: ounces
@@ -22,11 +22,11 @@ ingredients:
   - name: egg
     amount: 1
   - name: vanilla
-    amount: 1/2
-    unit: teaspoon
+    amount: 3
+    unit: grams
   - name: mini chocolate chips
-    amount: 1/2
-    unit: cup
+    amount: 3
+    unit: ounces
 steps:
   - step: Preheat oven to 350
   - step: Mix flour and soda of baking in a bowl and set aside
