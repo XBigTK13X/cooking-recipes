@@ -1,0 +1,38 @@
+name: butter bistcuits
+makes: 6 biscuits
+ingredients:
+  - name: ap flour
+    amount: 1
+    unit: cup
+  - name: powder of baking
+    amount: 1 1/4
+    unit: teaspoons
+  - name: soda of baking
+    amount: 1/4
+    unit: teaspoon
+  - name: salt
+    amount: 1/2
+    unit: teaspoon
+  - name: sugar
+    amount: 1 1/2
+    unit: teaspoon
+  - name: butter
+    amount: 1/4
+    unit: cup
+  - name: shortening (crisco)
+    amount: 2
+    unit: ounces
+  - name: buttermilk
+    amount: 1/3
+    unit: cup
+  - name: coconut oil
+    amount: 1
+    unit: tablespoon
+steps:
+  - step: Preheat the oven to 400 degrees
+  - step: Mix together the dry ingredients
+  - step: Cut in the coconut oil and butter until coarse crumbs achieved
+  - step: Mix in buttermilk
+  - step: Knead until combined
+  - step: Cut out evenly sized biscuits
+  - step: Bake for 15 minutes, or until a knife comes out clean
