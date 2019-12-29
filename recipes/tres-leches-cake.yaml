@@ -1,0 +1,23 @@
+name: tres leches cake
+ingredients:
+  - name: cake mix
+    amount: 1
+    unit: box
+  - name: cake ingredients
+  - name: evaporated milk
+    amount: 12
+    unit: oz
+  - name: sweetened condensed milk
+    amount: 14
+    unit: oz
+  - name: half and half
+    amount: 1
+    unit: cup
+
+steps:
+  - step: Follow the instructions on the box to prepare the cake
+  - step: Allow the cake to completely cool and leave it in the baking dish
+  - step: Combine the half and half, sweetened condensed milk, and evaporated milk in a bowl
+  - step: Use a bamboo skewer to poke holes evenly across the surface of the cake
+  - step: Pour the dairy mixture over the punctured cake
+  - step: Cover the baking dish and refrigerate at least over night
