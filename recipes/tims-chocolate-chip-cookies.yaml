@@ -43,9 +43,12 @@ ingredients:
     unit: ounces
     amountVolume: 1/2
     unitVolume: cup
+  - name: salt
+    amount: 1/4
+    unit: teaspoon
 steps:
   - step: Preheat oven to 350
-  - step: Mix flour and soda of baking in a bowl and set aside
+  - step: Mix flour, salt, and soda of baking in a bowl and set aside
   - step: Cream the butter, light brown sugar, and sugar in a mixer
   - step: Mix in pudding mix
   - step: Mix in egg and vanilla
