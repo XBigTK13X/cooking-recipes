@@ -25,7 +25,7 @@ for root, dirs, files in os.walk(RECIPE_DIR):
 		if file == "template.yaml":
 			continue
 		with open(os.path.join(root, file), 'r') as stream:
-			recipe = yaml.load(stream)
+			recipe = yaml.load(stream, Loader=yaml.FullLoader)
 			recipe['title'] = recipe['name'].title().replace("'S ", "'s ")
 			recipe['slug'] = recipe['name'].replace(' ', '-')
 			ingredients = recipe['ingredients']

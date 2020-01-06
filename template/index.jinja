@@ -14,13 +14,18 @@
 
 {% for recipe in payload.recipes %}
 	<h2><a href="#{{recipe.slug}}" name="{{recipe.slug}}">{{recipe.title}}</a></h2>
-	
+
 	<ul>
 	{% for ingredient in recipe.ingredients %}
 		<li>
-		{{ingredient.amount}} 
-		{{ingredient.unit}} 
-		{{ingredient.name}} 
+		{{ingredient.amount}}
+		{% if ingredient.unit %}
+			{{ingredient.unit}}
+		{% endif %}
+		{% if ingredient.unitVolume %}
+			({{ingredient.amountVolume}} {{ingredient.unitVolume}})
+		{% endif %}
+		{{ingredient.name}}
 		{% if ingredient.prep %}
 			({{ingredient.prep}})
 		{% endif %}
@@ -41,7 +46,7 @@
 		{% endfor %}
 	</ul>
 	{% endif %}
-	
+
 	<div class="pagebreak"> </div>
 {% endfor %}
 

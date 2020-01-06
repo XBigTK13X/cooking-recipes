@@ -1,0 +1,64 @@
+name: oatmeal raisin cookies
+makes: 12 cookies
+ingredients:
+  - name: ap flour
+    amount: 95
+    unit: gram
+  - name: whole rolled oats
+    amount: 120
+    unit: gram
+  - name: egg
+    amount: 1
+  - name: butter
+    amount: 4
+    unit: oz
+  - name: brown sugar
+    amount: 100
+    unit: gram
+  - name: white sugar
+    amount: 25
+    unit: gram
+  - name: soda of baking
+    amount: 1
+    unit: gram
+    amountVolume: 1/2
+    unitVolume: teaspoon
+  - name: vanilla extract
+    amount: 4
+    unit: gram
+    amountVolume: 1/2
+    unitVolume: tablespoon
+  - name: salt
+    amount: 2
+    unit: gram
+    amountVolume: 1
+    unitVolume: teaspoon
+  - name: vanilla pudding mix
+    amount: 20
+    unit: gram
+  - name: cinnamon
+    amount: 2.5
+    unit: gram
+    amountVolume: 1
+    unitVolume: teaspoon
+  - name: california purple raisins
+    unit: gram
+    amount: 70
+  - name: mollases
+    unit: tablespoon
+    amount: 1/2
+
+steps:
+  - step: Preheat oven to 350
+  - step: Cream butter, white sugar, brown sugar, and mollases
+  - step: Mix in vanilla pudding powder, vanilla extract, and egg
+  - step: Combine ap flour, salt, soda of baking, cinnemon, and oats in a bowl
+  - step: Mix the dry into the wet until just combined
+  - step: Gently stir raisins until incorporated
+  - step: Wearing latex gloves, roll the dough into twelve equal balls
+  - step: Place the dough balls evenly on a cookie sheet
+  - step: Bake for 13 minutes
+  - step: Immediately move to a cooling rack
+
+notes:
+  - Not sure about toasting the oats vs baking them raw
