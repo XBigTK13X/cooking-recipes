@@ -1,0 +1,47 @@
+name: linzer cookies
+makes: 12 cookies
+ingredients:
+  - name: butter
+    amount: 226
+    unit: gram
+  - name: ap flour
+    amount: 339
+    unit: gram
+  - name: powdered sugar
+    amount: 113
+    unit: gram
+  - name: salt
+    amount: 1/2
+    unit: teaspoon
+  - name: egg yolk
+    amount: 2
+  - name: vanilla extract
+    amount: 2
+    unit: teaspoon
+  - name: almond extract
+    amount: 1
+    unit: teaspoon
+  - name: lemon zest
+    amount: 2
+    unit: teaspoon
+  - name: seedless fruit jam (raspberry, apricot, etc)
+    unit: oz
+    amount: 12
+
+steps:
+  - step: Combine the salt and flour in a bowl
+  - step: Cream the butter and powdered sugar together
+  - step: Mix egg yolk, vanilla extract, almond extract, and lemon zest into the creamed butter
+  - step: Tightly wrap the dough in plastic wrap
+  - step: Chill for at least two hours
+  - step: Remove the dough from the fridge
+  - step: Preheat the oven to 350
+  - step: Gently roll out on a floured surface to 1 cm thickness
+  - step: Cut the dough into 3 inch rounds
+  - step: Using a 1 inch cutter, remove the center from half of the rounds
+  - step: Reroll scraps and continue process until all usable cookies are shaped
+  - step: Bake the cookies for 10 minutes
+  - step: Remove from oven and allow to cool for 10 minutes on the warm sheet
+  - step: Move cookies to a cooling rack and allow to cool completely
+  - step: Spread two teaspoons of jam on each base cookie, top with the ring cookie
+  - step: Cookies can be enjoyed immediately, but improve with an overnight rest to allow absorption of jam moisture
