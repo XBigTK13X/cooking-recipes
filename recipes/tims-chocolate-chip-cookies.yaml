@@ -2,37 +2,47 @@ name: tim's chocolate chip cookies
 makes: 12 cookies
 ingredients:
   - name: ap flour
-    amount: 1
-    unit: cup
-  - name: ap flour
-    amount: 2
-    unit: tablespoons
+    amount: 5.75
+    unit: ounces
+    amountVolume: 1 1/8
+    unitVolume: cup
   - name: soda of baking
-    amount: 1/2
-    unit: teaspoon
+    amount: 3
+    unit: grams
+    amountVolume: 1/2
+    unitVolume: teaspoon
   - name: butter
-    amount: 1/2
-    unit: cup
+    amount: 4
+    unit: ounces
+    amountVolume: 1/2
+    unitVolume: cup
   - name: sugar
-    amount: 2
-    unit: tablespoon
+    amount: 1
+    unit: ounce
+    amountVolume: 2
+    unitVolume: tablespoon
   - name: light brown sugar
-    amount: 1/4
-    unit: cup
-  - name: light brown sugar
-    amount: 2
-    unit: tablespoon
+    amount: 3
+    unit: ounces
+    amountVolume: 1/4
+    unitVolume: cup
   - name: vanilla instant pudding mix
-    amount: 1/4
-    unit: cup
+    amount: 1.5
+    unit: ounces
+    amountVolume: 1/4
+    unitVolume: cup
   - name: egg
     amount: 1
   - name: vanilla
-    amount: 1/2
-    unit: teaspoon
+    amount: 3
+    unit: grams
+    amountVolume: 1/2
+    unitVolume: teaspoon
   - name: mini chocolate chips
-    amount: 1/2
-    unit: cup
+    amount: 3
+    unit: ounces
+    amountVolume: 1/2
+    unitVolume: cup
 steps:
   - step: Preheat oven to 350
   - step: Mix flour and soda of baking in a bowl and set aside
