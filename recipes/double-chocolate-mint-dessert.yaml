@@ -22,7 +22,7 @@ steps:
   - step: In a mixing bowl, beat flour, sugar, butter, eggs, and syrup until smooth
   - step: Pour batter into prepared pan
   - step: Spread Mint Cream Layer on Cake
-  - step: Refridgerate until chilled
+  - step: Refrigerate until chilled
   - step: Spread Chocolate topping over dessert until chilled
 subrecipes:
   - name: mint cream layer

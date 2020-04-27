@@ -1,4 +1,4 @@
-name: cheese blend
+name: house cheese blend
 ingredients:
   - name: extra sharp cheddar cheese
     amount: 2
@@ -8,4 +8,4 @@ ingredients:
     unit: part
 steps:
   - step: Grate both cheeses
-  - step: Toss grated cheeses together
+  - step: Mix together in a ziploc bag

@@ -26,7 +26,7 @@ ingredients:
     unit: tablespoon
     prep: melted
 steps:
-  - step: Mix all of the dry ingredients together. This can be done well ahead of time and left to sit on a shelf in a container until the day comes when you want pancakes.
+  - step: Mix all of the dry ingredients together.
   - step: Preheat a griddle to 325
   - step: Separate one egg
   - step: Beat the egg white into the buttermilk
@@ -37,3 +37,5 @@ steps:
   - step: Using an ice cream disher, drop pancakes onto the heated and greased griddle
   - step: Flip the pancakes once the bottom edge starts to brown
   - step: Serve immediately
+notes:
+  - The dry mix can be prepared long in advance and left to sit on a shelf in a container until the day comes when you want pancakes.

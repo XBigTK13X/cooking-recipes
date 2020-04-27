@@ -1,0 +1,35 @@
+name: breakfast smoothie
+makes: 2 smoothies
+ingredients:
+  - name: water
+    amount: 2
+    unit: cups
+  - name: greek yogurt
+    amount: 150
+    unit: grams
+  - name: greek yogurt
+    amount: 150
+    unit: grams
+  - name: honey
+    amount: 40
+    unit: grams
+  - name: salt
+    amount: 1
+    unit: pinch
+  - name: whole rolled oats
+    amount: 50
+    unit: grams
+  - name: frozen veggie (spinach, kale, beet, etc)
+    amount: 100
+    unit: grams
+  - name: frozen banana
+    amount: 1
+  - name: frozen fruit (blueberry, strawberry, mango, etc)
+    amount: 400
+    unit: grams
+  - name: vanilla
+    amount: 1
+    unit: splash
+steps:
+  - step: Add ingredients in the order listed to a high speed blender
+  - step: Blend until smooth

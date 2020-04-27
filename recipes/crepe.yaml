@@ -1,0 +1,35 @@
+name: crêpe
+makes: 8 crêpes
+ingredients:
+  - name: large egg
+    amount: 2
+    unit:
+  - name: milk
+    amount: 1 1/4
+    unit: cups
+  - name: unsalted butter
+    amount: 1
+    unit: tablespoon
+    prep: melted
+  - name: salt
+    amount: 1
+    unit: pinch
+  - name: white sugar
+    amount: 1
+    unit: tablespoon
+  - name: vanilla
+    amount: 1
+    unit: teaspoon
+steps:
+  - step: Whisk the eggs and milk together
+  - step: Add the rest of the ingredients and whisk until smooth
+  - step: Refrigerate at least one hour
+  - step: Heat a 10 inch nonstick skillet over medium
+  - step: Lightly grease with butter, wipe off excess
+  - step: If the batter is too thick to pour, thin it out with either milk or melted butter
+  - step: Hold the pan and pour in 1/3 cup of batter
+  - step: Immediately swirl the batter to evenly coat the bottom in a paper thin layer
+  - step: Cook until the top look dry, should take around 20 seconds
+  - step: Grab one edge of the crêpe and cook on the second side for 10 seconds, or until edges start to brown
+notes:
+  - Based on <a href="https://www.seriouseats.com/recipes/2017/03/basic-crepes-batter-recipe.html#comment-anchor-35299">Kenji's crêpe recipe</a>

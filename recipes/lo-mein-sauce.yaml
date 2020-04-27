@@ -1,0 +1,36 @@
+name: lo mein sauce
+ingredients:
+  - name: light soy sauce
+    amount: 1/4
+    unit: cup
+  - name: dark soy sauce
+    amount: 1/4
+    unit: cup
+  - name: white sugar
+    amount: 1
+    unit: tablespoon
+  - name: sesame oil
+    amount: 1/4
+    unit: cup
+  - name: oyster sauce
+    amount: 1/4
+    unit: cup
+  - name: chicken stock
+    amount: 1
+    unit: cup
+  - name: ginger powder
+    amount: 1
+    unit: teaspoon
+  - name: garlic powder
+    amount: 1
+    unit: teaspoon
+  - name: chili paste (Heavenly Chef Hunan red chili sauce)
+    amount: 1
+    unit: teaspoon
+  - name: ground black pepper
+    amount: 1/2
+    unit: teaspoon
+steps:
+  - step: Bring all igredients to a simmer in a pot
+notes:
+  - My sticky note only had ingredients, not amounts. This should be eye-balled on the next attempt. After that, update the recipe.

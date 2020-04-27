@@ -21,7 +21,7 @@ ingredients:
   - name: light olive oil
     amount: 1
     unit: tablespoon
-  - name: cheese blend
+  - name: house cheese blend
     amount: 1/4
     unit: cup
   - name: ketchup
@@ -38,4 +38,4 @@ steps:
   - step: Sprinkle the cheese blend over the sloppy joe mix
   - step: Give the dish another quick zig zag of ketchup
 subrecipes:
-    - name: cheese blend
+    - name: house cheese blend

@@ -4,17 +4,16 @@
 
 <h1>Family Recipes</h1>
 
-<ul>
 {% for recipe in payload.recipes %}
-	<li><a href="#{{recipe.slug}}">{{recipe.title}}</a></li>
+	<a class="header-link" href="#{{recipe.slug}}">{{recipe.title}}</a></li>
 {% endfor %}
-</ul>
 <hr/>
 <div class="pagebreak"> </div>
 
 {% for recipe in payload.recipes %}
 	<h2><a href="#{{recipe.slug}}" name="{{recipe.slug}}">{{recipe.title}}</a></h2>
 
+	<h3>Ingredients</h3>
 	<ul>
 	{% for ingredient in recipe.ingredients %}
 		<li>
@@ -33,6 +32,7 @@
 	{% endfor %}
 	</ul>
 
+	<h3>Steps</h3>
 	<ol>
 	{% for step in recipe.steps %}
 		<li>{{step.step}}</li>
@@ -40,11 +40,21 @@
 	</ol>
 
 	{% if recipe.subrecipes %}
+	<h3> Subrecipes </h3>
 	<ul>
 		{% for subrecipe in recipe.subrecipes %}
 			<li><a href="#{{subrecipe.slug}}">{{subrecipe.title}}</a></li>
 		{% endfor %}
 	</ul>
+	{% endif %}
+
+	{% if recipe.notes %}
+	<h3>Notes</h3>
+	<div>
+	{% for note in recipe.notes %}
+		<p>{{note}}</p>
+	{% endfor %}
+	</div>
 	{% endif %}
 
 	<div class="pagebreak"> </div>

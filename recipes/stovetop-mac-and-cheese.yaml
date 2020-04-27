@@ -1,6 +1,6 @@
 name: stovetop mac and cheese
 ingredients:
-  - name: cheese blend
+  - name: house cheese blend
     amount: 5
     unit: oz
   - name: butter
@@ -22,7 +22,7 @@ ingredients:
     amount: 10
     unit: oz
     prep: dry
-  - name: cheese blend
+  - name: house cheese blend
     amount: 1
     unit: oz
 steps:
@@ -41,4 +41,4 @@ steps:
   - step: Let the noodles bond with the sauce, and then plate
   - step: Sprinkle the smaller portion of cheese blend over the plated mac and cheese
 subrecipes:
-  - name: cheese blend
+  - name: house cheese blend

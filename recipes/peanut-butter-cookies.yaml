@@ -1,0 +1,64 @@
+name: peanut butter cookies
+ingredients:
+  - name: unsalted butter
+    amount: 4
+    unit: ounces
+    amountVolume: 1
+    unitVolume: stick
+  - name: light brown sugar
+    amount: 200
+    unit: grams
+    amountVolume: 1
+    unitVolume: cup
+  - name: molasses
+    amount: 20
+    unit: grams
+    amountVolume: 1
+    unitVolume: tablespoon
+  - name: white sugar
+    amount: 50
+    unit: grams
+    amountVolume: 1/4
+    unitVolume: cups
+  - name: egg
+    amount: 1
+    unit:
+  - name: egg yolk
+    amount: 1
+    unit:
+  - name: vanilla
+    amount: 3
+    unit: grams
+    amountVolume: 1
+    unitVolume: teaspoon
+  - name: ap flour
+    amount: 250
+    unit: grams
+    amountVolume: 1 1/2
+    unitVolume: cups
+  - name: soda of baking
+    amount: 5
+    unit: grams
+    amountVolume: 1
+    unitVolume: teaspoon
+  - name: salt
+    amount: 4
+    unit: grams
+    amountVolume: 1/2
+    unitVolume: teaspoon
+  - name: chunky peanut butter
+    amount: 100
+    unit: grams
+steps:
+  - step: Preheat oven to 350
+  - step: Brown the butter on the stove
+  - step: Pour the browned butter into a large bowl
+  - step: Whisk brown sugar, white sugar, and molasses into the browned butter
+  - step: Whisking the sugars should cool the butter enough that it won't scramble the eggs
+  - step: Whisk in egg, extra egg yolk, vanilla, and peanut butter
+  - step: Combine the ap flour, soda of baking, salt in a separate bowl
+  - step: Using a rubber spatula, fold the dry into the wet until just combined
+  - step: Divide dough into 18 portions (approximately 45 grams per cookie) across three lined sheet pans
+  - step: Using a dinner fork, press hatch marks into each cookie to improve final texture
+  - step: Bake for 11 minutes, or until the edges start to brown
+  - step: Remove from the oven and place on a parchment lined cooling rack until cool

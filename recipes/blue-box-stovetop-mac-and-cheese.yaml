@@ -1,0 +1,26 @@
+name: blue box stovetop mac and cheese
+ingredients:
+  - name: elbow macaroni
+    amount: 140
+    unit: grams
+  - name: powdered cheddar cheese
+    amount: 50
+    unit: grams
+  - name: powdered butter
+    amount: 25
+    unit: grams
+  - name: unsalted butter
+    amount: 2
+    unit: tablespoons
+  - name: milk
+    amount: 1/4
+    unit: cup
+steps:
+  - step: Boil the elbow macaroni in salted water until al dente
+  - step: Remove the pasta from the pot and drain
+  - step: In the now empty pot, melt the butter
+  - step: Whisk in the milk until it simmers
+  - step: Whisk in the powdered butter and powdered cheese
+  - step: Stir in the noodles
+notes:
+  - Like Kraft dinner, but better

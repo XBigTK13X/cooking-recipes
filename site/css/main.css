@@ -1,1 +1,11 @@
 .pagebreak { page-break-before: always; }
+
+.header-link {
+    color: #0a0a0a;
+    text-decoration: none;
+    margin: 5px 5px;
+    padding: 5px 5px;
+    display: inline-block;
+    border: 1px solid black;
+    border-radius: 10px;
+}

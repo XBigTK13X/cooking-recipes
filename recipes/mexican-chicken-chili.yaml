@@ -1,0 +1,55 @@
+name: mexican chicken chili
+makes: 20 bowls
+ingredients:
+  - name: carrot
+    amount: 12
+    unit: ounces
+    prep: chopped
+  - name: onion
+    amount: 12
+    unit: ounces
+    prep: chopped
+  - name: celery
+    amount: 12
+    unit: ounces
+    prep: chopped
+  - name: chicken stock
+    amount: 1
+    unit: cup
+  - name: chicken andouille
+    amount: 32
+    unit: ounces
+  - name: black beans
+    amount: 12
+    unit: ounces
+  - name: corn kernels
+    amount: 6
+    unit: ounces
+  - name: garbanzo beans
+    amount: 32
+    unit: ounces
+  - name: tomato paste
+    amount: 12
+    unit: ounces
+  - name: rotel original
+    amount: 15
+    unit: ounces
+  - name: san marzano tomatoes
+    amount: 6
+    unit: kilograms
+  - name: william's chili seasoning
+    amount: 1
+    unit: packet
+  - name: trader joe's hatch chili salsa
+    amount: 4
+    unit: tablespoons
+steps:
+  - step: Chop the celery, carrots, and onions
+  - step: Simmer the celery, carrots, and onions in the cup of chicken stock
+  - step: Remove andouille from casing and cut into bite size pieces
+  - step: Add andoille to the pot
+  - step: Once cooked, add remaining ingredients
+  - step: Stir frequently and simmer
+  - step: Remove from heat and allow to cool in fridge overnight to allow the flavors to mingle
+notes:
+  - This is a large amount of chili. I recommend speeding the cooling process by putting the pot into an ice bath (use the kitchen sink) after it sits on the stove for an hour. Then it goes right into the fridge.

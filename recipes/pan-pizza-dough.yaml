@@ -1,0 +1,34 @@
+name: pan pizza dough
+makes: 1 sheet pan of dough
+ingredients:
+  - name: bread flour
+    amount: 500
+    unit: grams
+  - name: warm water
+    amount: 300
+    unit: grams
+  - name: extra virgin olive oil
+    amount: 20
+    unit: grams
+  - name: instant yeast
+    amount: 10
+    unit: grams
+  - name: white sugar
+    amount: 10
+    unit: grams
+  - name: salt
+    amount: 10
+    unit: grams
+steps:
+  - step: Mix all ingredients together in a large bowl
+  - step: Knead for five minutes, or until the dough becomes supple
+  - step: Roll the dough into a taut ball
+  - step: Coat the bowl lightly in olive oil and place the dough inside
+  - step: Cover the bowl with plastic wrap and leave out at room temperature
+  - step: After two hours, or when dough has doubled in size, fold the dough on itself and reform into a ball
+  - step: Rest the dough, covered, for another two hours
+  - step: In a foiled greased sheet pan, work the dough to each edge
+  - step: Allow to dough to rest if it retracts instead of staying in place
+  - step: Top pizza as desired and bake on the bottom rack at highest oven temp (550)
+notes:
+  - setp: My dough tends to fight going into the corners. A place a layer of foil over the dough and set a second sheet pan on top of the foil. Then I weigh down the top pan with two fifty pound dumbbells. This spreads the dough evenly within half an hour.

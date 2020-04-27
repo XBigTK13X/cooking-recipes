@@ -1,0 +1,49 @@
+name: shortcake
+makes: 12 slices
+ingredients:
+  - name: ap flour
+    amount: 300
+    unit: grams
+    amountVolume: 2
+    unitVolume: cups
+  - name: white sugar
+    amount: 60
+    unit: grams
+    amountVolume: 4
+    unitVolume: tablespoons
+  - name: powder of baking
+    amount: 10
+    unit: grams
+    amountVolume: 1
+    unitVolume: tablespoon
+  - name: salt
+    amount: 5
+    unit: grams
+    amountVolume: 1
+    unitVolume: teaspoon
+  - name: unsalted butter
+    amount: 113
+    unit: grams
+    amountVolume: 1
+    unitVolume: stick
+  - name: milk
+    amount: 300
+    unit: grams
+    amountVolume: 1 1/2
+    unitVolume: cups
+  - name: vanilla
+    amount: 3
+    unit: grams
+    amountVolume: 1
+    unitVolume: teaspoon
+steps:
+  - step: Preheat oven to 350
+  - step: Grease an 8 inch baking dish
+  - step: Combine dry ingredients in a bowl
+  - step: Cut in butter and mix until coarse crumbs form
+  - step: Using a spoon, barely stir the milk into the course crumbs until it just comes together
+  - step: Spread the batter into the baking dish and tap a few times to uneven air pockets
+  - step: Bake for 35 minutes, or until a wooden skewer comes out clean
+  - step: Cool completely before covering, use within 5 days
+notes:
+  - This is a reverse engineered recipe based on Andy's Frozen Custard Strawberry Shortcake Sundae. It yeilds a baked good halfway between a cake and a biscuit. The current recipe is a little pale and slightly too fluffy.

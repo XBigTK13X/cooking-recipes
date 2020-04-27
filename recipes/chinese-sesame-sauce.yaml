@@ -1,0 +1,34 @@
+name: chinese sesame sauce
+makes: 4 servings
+ingredients:
+  - name: white sugar
+    amount: 3/8
+    unit: cup
+  - name: cornstarch
+    amount: 1/8
+    unit: cup
+  - name: chicken stock
+    amount: 1 1/2
+    unit: cup
+  - name: white vinegar
+    amount: 1/8
+    unit: cup
+  - name: dark soy sauce
+    amount: 2
+    unit: tablespoon
+  - name: sesame oil
+    amount: 2
+    unit: tablespoon
+  - name: chili paste (Heavenly Chef Hunan red chili sauce)
+    amount: 1
+    unit: teaspoon
+  - name: garlic
+    amount: 1
+    unit: clove
+    prep: crushed
+steps:
+  - step: Whisk together the sugar, cornstarch, and chicken stock in a pot over simmering heat
+  - step: Once the cornstarch dissolves, stir in the remaining ingredients
+  - step: Stir constantly over simmering heat for five minutes
+notes:
+  - I recommend tossing popcorn chicken and broccoli in this sauce and sprinkling with fresh toasted sesame seeds.

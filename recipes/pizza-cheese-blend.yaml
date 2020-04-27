@@ -1,0 +1,14 @@
+name: pizza cheese blend
+ingredients:
+  - name: full fat low moisture mozzarella
+    amount: 10
+    unit: parts
+  - name: pecorino romano
+    amount: 2
+    unit: parts
+  - name: parmigiano-reggiano
+    amount: 1
+    unit: part
+steps:
+  - step: Grate each cheese at the same setting
+  - step: Mix together in a ziploc bag

@@ -19,7 +19,9 @@ ingredients:
     amount: 1 and 1/4
     unit:  cup
 steps:
-  - step: Preheat oven to 450 
+  - step: Preheat oven to 450
   - step: Mix all ingredients together in a bowl
   - step: Spoon 12 biscuits onto a cookie sheet
   - step: Bake for 12 to 12 minutes or until golden brown
+notes:
+  - Taken from Kathyrn's family recipe cards
