@@ -1,0 +1,56 @@
+name: breakfast granola
+makes: 14 cups of granola
+ingredients:
+  - name: rolled oats
+    amount: 400
+    unit: grams
+  - name: cashews
+    amount: 300
+    unit: grams
+  - name: pepitas
+    amount: 100
+    unit: grams
+  - name: chocolate chips
+    amount: 200
+    unit: grams
+  - name: vegetable oil
+    amount: 50
+    unit: grams
+  - name: honey
+    amount: 100
+    unit: grams
+  - name: rice krispy cereal
+    amount: 100
+    unit: grams
+  - name: salt
+    amount: 3
+    unit: grams
+  - name: cinnamon
+    amount: 3
+    unit: grams
+  - name: creamy peanut butter
+    amount: 200
+    unit: grams
+  - name: light brown sugar
+    amount: 100
+    unit: grams
+  - name: almond extract
+    amount: 3
+    unit: grams
+steps:
+  - step: Preheat the oven to 300 degrees
+  - step: In a large bowl, stir together the oats, ricek krispy cereal, pepitas, cashews, light brown sugar, cinnamon, and salt
+  - step: In a second bowl, microwave the peanut butter until it becomes runny (~30 seconds)
+  - step: Stir the vegetable oil, honey, and almond extract into the peanut butter
+  - step: Fold the wet ingredients into the dry
+  - step: Divide the granola between two Silpat lined half sheet pans
+  - step: Bake for 10 minutes, stir the granola on each pan, then bake for another 10 minutes
+  - step: The granola will not appear too browned, but will carry over while cooling
+  - step: Allow the granola to completely cool
+  - step: Pour the granola back into the original mixing bowl
+  - step: Fold in the chocolate chips
+notes:
+  - As written this recipe has a few criticisms I want to address
+  - First, there are no clumps. Supposedly this can be helped by adding egg white
+  - Second, the original batch had three rounds of 10 minute baking and stir, but it wound up a little burnt
+  - Third, the rice krispy is a little too present. I want to cut that a bit, boost up the amount of peanut butter, and lower the cashew a little

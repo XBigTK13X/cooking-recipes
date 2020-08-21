@@ -1,0 +1,28 @@
+name: cilantro lime rice
+ingredients:
+  - name: white (jasmine) rice
+    amount: 135
+    unit: grams
+  - name: water
+    amount: 260
+    unit: grams
+  - name: better than chicken boullion
+    amount: 1
+    unit: tablespoon
+  - name: lime juice
+    amount: 1/4
+    unit: lime
+  - name: cilantro
+    amount: 1
+    unit: handful
+    prep: chopped
+  - name: vegetable oil
+    amount: 3
+    unit: tablespoons
+steps:
+  - step: Heat the oil in a pot
+  - step: Fry the rice in the oil until fragrant
+  - step: Stir in the better than boullion
+  - step: Stir in the water
+  - step: Cover the pot and simmer until the rice is soft
+  - step: Immediately before serving, stir in the cilantro and lime

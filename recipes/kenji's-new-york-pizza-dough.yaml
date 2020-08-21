@@ -2,31 +2,29 @@ name: kenji's new york pizza dough
 makes: 2 quart containers of dough
 ingredients:
   - name: bread flour
-    amount: 16
-    unit: oz
+    amount: 450
+    unit: grams
   - name: white sugar
-    amount: 0.33
-    unit: ounces
-  - name: salt
-    amount: 0.23
-    unit: ounces
-  - name: instant yeast
-    amount: 0.23
-    unit: ounces
-  - name: extra virgin olive oil
-    amount: 0.75
-    unit: ounces
-  - name: water
     amount: 10
-    unit: ounces
+    unit: grams
+  - name: salt
+    amount: 10
+    unit: grams
+  - name: active dry yeast
+    amount: 10
+    unit: grams
+  - name: extra virgin olive oil
+    amount: 20
+    unit: grams
+  - name: water
+    amount: 280
+    unit: grams
     prep: warm
 steps:
-  - step: Pulse the dry ingredients in a food processor until combined
-  - step: Add the wet ingredients and pulse for 30 seconds
-  - step: Scrape the sides of the bowl and pulse another 30 seconds
-  - step: Split the dough in half
-  - step: Roll each half into a taut ball
-  - step: Put each ball into a quart container
+  - step: Combine dry ingredients in a KitchenAid mixer on low with a dough hook
+  - step: Add the wet ingredients and mix on low until combined
+  - step: Scrape the sides of the bowl and knead on high speed for 10 minutes, or until the dough becomes smooth to the touch
+  - step: Store the dough in an oiled bowl
   - step: Refrigerate the dough at least overnight, best after two to three days.
   - step: When using the dough, make sure to allow it to come up to room temperature before working, at least an hour or two
 notes:

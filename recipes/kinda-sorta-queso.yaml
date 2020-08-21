@@ -1,0 +1,26 @@
+name: kinda sorta queso
+ingredients:
+  - name: pickled jalapeno juice
+    amount: 2
+    unit: tablespoons
+  - name: sharp cheddar cheese powder
+    amount: 4
+    unit: tablespoons
+  - name: milk
+    amount: 3
+    unit: tablespoons
+  - name: unsalted butter
+    amount: 3
+    unit: tablespoons
+  - name: butter powder
+    amount: 1
+    unit: tablespoon
+  - name: kraft american cheese
+    amount: 3
+    unit: singles
+steps:
+  - step: Melt the butter over low heat in a sauce pan
+  - step: Heat the milk in the melted butter
+  - step: Whisk in the powders
+  - step: Whisk in the kraft singles
+  - step: Whisk in the jalapeno juice
