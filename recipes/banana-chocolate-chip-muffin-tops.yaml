@@ -1,0 +1,56 @@
+name: banana chocolate chip muffin tops
+makes: 18 muffin tops
+ingredients:
+  - name: ap flour
+    amount: 2
+    unit: cups
+  - name: powder of baking
+    amount: 1
+    unit: teaspoon
+  - name: soda of baking
+    amount: 1
+    unit: teaspoon
+  - name: salt
+    amount: 1
+    unit: teaspoon
+  - name: banana
+    amount: 3
+    prep: ripe
+  - name: milk
+    amount: 1
+    unit: tablespoon
+  - name: cinnamon
+    amount: 2
+    unit: teaspoon
+  - name: butter
+    amount: 1/2
+    unit: cup
+    prep: softened
+  - name: white sugar
+    amount: 1/2
+    unit: cup
+  - name: light brown sugar
+    amount: 1/2
+    unit: cup
+  - name: eggs
+    amount: 2
+  - name: chocolate chips
+    amount: 1
+    unit: cup
+  - name: vanilla extract
+    amount: 1
+    unit: teaspoon
+steps:
+  - step: Preheat oven to 325 degrees
+  - step: Mash the bananas in a large bowl
+  - step: Cream the butter and sugars together with the bananas
+  - step: Mix in the eggs, vanilla, and cinnamon
+  - step: Combine the ap flour, soda of baking, powder of baking, and salt
+  - step: Barely mix the dry into the wet
+  - step: Place Silpat liners on three half sheet trays
+  - step: Dish the batter evenly between the three trays, you should have 6 large muffin tops per tray
+  - step: Bake until edges are golden brown, ~11 minutes
+  - step: Move to a parchment paper lined cooling rack
+notes:
+  - These freeze well
+  - Modified from https://www.allrecipes.com/recipe/230482/banana-chocolate-chip-bread/
