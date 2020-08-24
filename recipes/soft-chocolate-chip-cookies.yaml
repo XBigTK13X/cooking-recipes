@@ -1,4 +1,4 @@
-name: chocolate chip cookie dough cookies
+name: soft chocolate chip cookies
 makes: 12 cookies
 ingredients:
   - name: ap flour
@@ -38,8 +38,8 @@ ingredients:
     unit: grams
     amountVolume: 1/2
     unitVolume: teaspoon
-  - name: mini chocolate chips
-    amount: 3
+  - name: chocolate chips
+    amount: 3.5
     unit: ounces
     amountVolume: 1/2
     unitVolume: cup
