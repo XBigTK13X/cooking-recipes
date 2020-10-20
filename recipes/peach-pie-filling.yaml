@@ -1,0 +1,43 @@
+name: peach pie filling
+ingredients:
+  - name: water
+    amount: 1/2
+    unit: cup
+  - name: peach
+    amount: 2.5
+    unit: pounds
+    prep: sliced, frozen
+  - name: white sugar
+    amount: 100
+    unit: grams
+  - name: brown sugar
+    amount: 100
+    unit: grams
+  - name: salt
+    amount: 1
+    unit: teaspoon
+  - name: corn starch
+    amount: 40
+    unit: grams
+    amountVolume: 4
+    unitVolume: tablespoon
+  - name: vanilla
+    amount: 1
+    unit: teaspoon
+  - name: lemon juice
+    amount: 1
+    unit: teaspoon
+  - name: cinnamon
+    amount: 1/4
+    unit: teaspoon
+  - name: nutmeg
+    amount: 1
+    unit: sprinkle
+steps:
+  - step: Add the frozen peaches and water to a large pan
+  - step: Stirring occasionally, bring the pan to a simmer and then cover
+  - step: While the peaches come up to temperature, combine the white sugar, brown sugar, salt, corn starch, cinnamon, and nutmeg in a large bowl
+  - step: Once the peaches are mostly softened, dump them into the bowl of dry ingredients and combine everything
+  - step: Add the lemon juice and vanilla to the mixture and combine
+  - step: Dump the bowl's contents back into the pan and simmer
+  - step: Once the filling reaches your desired thickness and the peaches reach the desired softness, and the hot filling to a prebaked pie crust

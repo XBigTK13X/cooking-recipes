@@ -1,0 +1,42 @@
+name: kenji's pie crust
+makes: 2 crusts (9 inch)
+ingredients:
+  - name: vegetable shortening
+    amount: 100
+    unit: grams
+    amountVolume: 1/2
+    unitVolume: cup
+    prep: cold
+  - name: unsalted butter
+    amount: 170
+    unit: grams
+    amountVolume: 1 1/2
+    unitVolume: cups
+    prep: cold
+  - name: ap flour
+    amount: 360
+    unit: grams
+  - name: salt
+    amount: 1
+    unit: teaspoon
+  - name: sugar
+    amount: 2
+    unit: tablespoon
+  - name: vodka
+    amount: 1/3
+    unit: cup
+  - name: water
+    amount: 1/3
+    unit: cup
+  - name: ice cubes
+    amount: 1
+    unit: handful
+steps:
+  - step: Mix the ap flour, salt, and sugar in a large bowl
+  - step: Cut the shortening and butter together into the dry ingredients until they form crumbs
+  - step: Combine the ice cubes, water, and vodka
+  - step: Two tablespoons at a time, add the liquid into the crumbs and gently fold
+  - step: Stop adding liquid once the dough comes together
+  - step: Split into two discs (~393 grams each), wrap in plastic wrap, and refridgerate overnight
+notes:
+  - The dough will require a lot of flour when rolling out. Don't be afraid to use more than you think is needed and take it slow.

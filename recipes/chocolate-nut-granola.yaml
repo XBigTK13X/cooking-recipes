@@ -1,5 +1,6 @@
 name: chocolate nut granola
 makes: 14 cups of granola
+version: 3
 ingredients:
   - name: rolled oats
     amount: 500
@@ -11,25 +12,28 @@ ingredients:
   - name: pepitas
     amount: 100
     unit: grams
-  - name: dark chocolate
+  - name: chocolate chips
     amount: 200
     unit: grams
-    prep: chopped
   - name: vegetable oil
-    amount: 50
-    unit: grams
-  - name: honey
     amount: 100
     unit: grams
+  - name: honey
+    amount: 200
+    unit: grams
   - name: rice krispy cereal
-    amount: 50
+    amount: 75
     unit: grams
   - name: salt
     amount: 3
     unit: grams
+    amountVolume: 1
+    unitVolume: teaspoon
   - name: cinnamon
-    amount: 6
+    amount: 3
     unit: grams
+    amountVolume: 1
+    unitVolume: teaspoon
   - name: peanut butter
     amount: 200
     unit: grams
@@ -55,4 +59,4 @@ steps:
   - step: Pour the granola back into the original mixing bowl
   - step: Fold in the dark chocolate
 notes:
-  - This is the second version of the recipe. It dramatically improves on the first version, but I feel like the rice krispy is barely there now. Maybe 75 grams?
+  - After a day or two, the chocolate chips will absorb moisture from the rest of the granola and soften.

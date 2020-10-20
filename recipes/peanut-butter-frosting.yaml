@@ -1,0 +1,14 @@
+name: peanut butter frosting
+makes: 12 cupcakes worth
+ingredients:
+  - name: peanut butter
+    amount: 80
+    unit: grams
+  - name: confectioners' sugar
+    amount: 20
+    unit: grams
+  - name: heavy cream
+    amount: 65
+    unit: grams
+steps:
+  - step: Whip all ingredients together until they form a stiff frosting
