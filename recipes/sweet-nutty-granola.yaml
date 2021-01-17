@@ -1,6 +1,6 @@
-name: chocolate nut granola
-makes: 14 cups of granola
-version: 3
+name: sweet nutty granola
+makes: 16 cups of granola
+version: 6
 ingredients:
   - name: rolled oats
     amount: 500
@@ -12,17 +12,14 @@ ingredients:
   - name: pepitas
     amount: 100
     unit: grams
-  - name: chocolate chips
-    amount: 200
-    unit: grams
   - name: vegetable oil
-    amount: 100
+    amount: 150
     unit: grams
-  - name: honey
-    amount: 200
+  - name: maple syrup
+    amount: 250
     unit: grams
-  - name: rice krispy cereal
-    amount: 75
+  - name: crunchy cereal
+    amount: 150
     unit: grams
   - name: salt
     amount: 3
@@ -57,6 +54,3 @@ steps:
   - step: The granola will not have taken on much color, but will carry over while cooling
   - step: Allow the granola to completely cool on the sheet pans
   - step: Pour the granola back into the original mixing bowl
-  - step: Fold in the dark chocolate
-notes:
-  - After a day or two, the chocolate chips will absorb moisture from the rest of the granola and soften.

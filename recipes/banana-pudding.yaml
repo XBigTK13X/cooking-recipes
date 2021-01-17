@@ -1,0 +1,14 @@
+name: banana pudding
+ingredients:
+  - name: banana
+    amount: 1
+    prep: ripe
+  - name: vanilla pudding mix
+    amount: 1/2
+    unit: cup
+  - name: milk
+    amount: varies
+steps:
+  - step: Mash ripe banana into a bowl
+  - step: Stir in vanilla pudding mix
+  - step: Keep adding milk and stirring until milk doesn't immediately soak in when stirred.
