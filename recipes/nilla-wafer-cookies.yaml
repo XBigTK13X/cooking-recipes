@@ -1,0 +1,36 @@
+name: nilla wafer cookies
+makes: two sheet pans of mini coookies
+ingredients:
+  - name: unsalted butter
+    amount: 1
+    unit: stick
+    prep: softened
+  - name: powdered sugar
+    amount: 75
+    unit: grams
+  - name: white sugar
+    amount: 50
+    unit: grams
+  - name: milk
+    amount: 70
+    unit: grams
+  - name: vanilla extract
+    amount: 5
+    unit: grams
+  - name: ap flour
+    amount: 130
+    unit: grams
+  - name: salt
+    amount: 1/2
+    unit: teaspoon
+steps:
+  - step: Preheat oven to 350 degrees
+  - step: Cream white sugar and powdered sugar into the butter using a whisk attachment
+  - step: Mix in the vanilla and milk
+  - step: Using a spatula, gently stir the ap flour and salt into the creamed mixture
+  - step: Transfer the dough to a pastry bag and pipe into mini 1/2 inch rounds. The dough will not spread much, if at all.
+  - step: Bake for 11-12 minutes, until the edges are starting to brown
+  - step: Remove the cookies to a cooling rack
+notes:
+  - Modified from <a href="https://bakingamoment.com/homemade-vanilla-wafers/">https://bakingamoment.com/homemade-vanilla-wafers/</a>
+  - This dough cannot be mixed by hand. There is too much liquid being emulsified into fat to do it manually.
