@@ -2,8 +2,8 @@ name: soft chocolate chip cookies
 makes: 12 cookies
 ingredients:
   - name: ap flour
-    amount: 5.75
-    unit: ounces
+    amount: 160
+    unit: grams
     amountVolume: 1 1/8
     unitVolume: cup
   - name: soda of baking
@@ -12,23 +12,23 @@ ingredients:
     amountVolume: 1/2
     unitVolume: teaspoon
   - name: butter
-    amount: 4
-    unit: ounces
-    amountVolume: 1/2
-    unitVolume: cup
+    amount: 113
+    unit: grams
+    amountVolume: 1
+    unitVolume: stick
   - name: sugar
-    amount: 1
-    unit: ounce
+    amount: 30
+    unit: grams
     amountVolume: 2
     unitVolume: tablespoon
   - name: light brown sugar
-    amount: 3
-    unit: ounces
+    amount: 90
+    unit: grams
     amountVolume: 1/4
     unitVolume: cup
   - name: vanilla instant pudding mix
-    amount: 1.5
-    unit: ounces
+    amount: 40
+    unit: grams
     amountVolume: 1/4
     unitVolume: cup
   - name: egg
@@ -36,11 +36,11 @@ ingredients:
   - name: vanilla
     amount: 3
     unit: grams
-    amountVolume: 1/2
+    amountVolume: 1
     unitVolume: teaspoon
   - name: chocolate chips
-    amount: 3.5
-    unit: ounces
+    amount: 130
+    unit: grams
     amountVolume: 1/2
     unitVolume: cup
   - name: salt
