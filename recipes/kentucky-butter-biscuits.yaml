@@ -1,9 +1,11 @@
 name: kentucky butter biscuits
-makes: 6 biscuits
+makes: 10 2.5 inch biscuits
 ingredients:
   - name: ap flour
-    amount: 1
-    unit: cup
+    amount: 200
+    unit: grams
+    amountVolume: 1
+    unitVolume: cup
   - name: powder of baking
     amount: 1 1/2
     unit: teaspoon
@@ -17,30 +19,25 @@ ingredients:
     amount: 1 1/2
     unit: teaspoon
   - name: unsalted butter
-    amount: 1/4
-    unit: cup
+    amount: 113
+    unit: grams
+    amountVolume: 1/4
+    unitVolume: cup
   - name: buttermilk
-    amount: 1/3
-    unit: cup
-  - name: refined coconut oil
-    amount: 1
-    unit: Tablespoon
+    amount: 100
+    unit: grams
+    amountVolume: 1/2
+    unitVolume: cup
+
+  - name: shortening
+    amount: 25
+    unit: grams
 steps:
   - step: Preheat oven to 400
   - step: Mix flour, powder of baking, soda of baking, salt, and sugar in a bowl
-  - step: Cut in butter until  it forms coarse crumbs
+  - step: Cut in butter and shortening until  it forms coarse crumbs
   - step: Stir in the buttermilk
-  - step: Turn out onto a floured surface and knead for 2 minutes
-  - step: Cut out biscuits of desired shape and size
-  - step: Place barely touching on a lined baking sheet
-  - step: Bake 15 minutes or until a tester comes out clean
-  - step:
-  - step:
-  - step:
-  - step:
-  - step:
-  - step:
-  - step:
-  - step:
-  - step:
-  - step:
+  - step: Turn out onto a floured surface and knead until the dough barely comes together
+  - step: Cut out biscuits using a sharp cutter
+  - step: Place separated on a lined baking sheet
+  - step: Bake 13 minutes or until a tester comes out clean
