@@ -1,0 +1,58 @@
+name: banana bread
+makes: 1 9x5x3 loaf
+image: banana-bread-v001.jpg
+ingredients:
+  - name: banana
+    amount: 400
+    unit: grams
+    prep: over ripened
+    amountVolume: 4-5
+    unitVolume: bananas
+  - name: unsalted butter
+    amount: 113
+    unit: grams
+    prep: melted
+    amountVolume: 1
+    unitVolume: stick
+  - name: brown sugar
+    amount: 50
+    unit: grams
+  - name: white sugar
+    amount: 150
+    unit: grams
+  - name: eggs
+    amount: 2
+  - name: vanilla extract
+    amount: 2
+    unit: teaspoon
+  - name: ap flour
+    amount: 235
+    unit: grams
+  - name: salt
+    amount: 1/2
+    unit: teaspoon
+  - name: soda of baking
+    amount: 1
+    unit: teaspoon
+  - name: cinnamon
+    amount: 1
+    unit: teaspoon
+  - name: pecan
+    amount: 90
+    unit: grams
+  - name: chocolate chips
+    amount: 90
+    unit: grams
+steps:
+  - step: Preheat oven to 350
+  - step: Grease a 9x5x3 loaf pan. Line it with parchment, then grease the parchment
+  - step: In a large bowl, mash the bananas with the butter, sugars, eggs, and vanilla
+  - step: In another bowl, stir together the ap flour, soda of baking, salt, and cinnamon
+  - step: Combine the nuts and chocolate chips, separate 1/4 of the mixture
+  - step: Gently fold the wet into the dry
+  - step: Gently fold in the 3/4 portion of mixins
+  - step: Pour the batter into the loaf pan
+  - step: Bake until the center temps between 200 and 205 degrees (a little over an hour)
+  - step: Let the load rest in it's pan for 15-20 minutes, then use the parchment to move it to a cooling rack
+notes:
+  - Modified from https://cafedelites.com/banana-bread/

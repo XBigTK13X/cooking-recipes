@@ -13,6 +13,10 @@
 {% for recipe in payload.recipes %}
 	<h2><a href="#{{recipe.slug}}" name="{{recipe.slug}}">{{recipe.title}}</a></h2>
 
+	{% if recipe.image %}
+		<img src="asset/image/recipe/{{recipe.image}}" />
+	{% endif %}
+
 	<h3>Ingredients</h3>
 	<ul>
 	{% for ingredient in recipe.ingredients %}
@@ -55,6 +59,15 @@
 		<p>{{note}}</p>
 	{% endfor %}
 	</div>
+	{% endif %}
+
+	{% if recipe.mods %}
+		<h3>Notes</h3>
+		<div>
+		{% for mod in recipe.mods %}
+			<p>{{mod}}</p>
+		{% endfor %}
+		</div>
 	{% endif %}
 
 	<div class="pagebreak"> </div>

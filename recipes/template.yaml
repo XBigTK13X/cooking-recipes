@@ -1,4 +1,6 @@
 name:
+makes:
+image:
 ingredients:
   - name:
     amount:
@@ -61,3 +63,5 @@ steps:
   - step:
   - step:
   - step:
+notes:
+mods:
