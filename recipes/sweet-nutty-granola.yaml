@@ -5,19 +5,6 @@ ingredients:
   - name: rolled oats
     amount: 500
     unit: grams
-  - name: cashews
-    amount: 200
-    unit: grams
-    prep: chopped
-  - name: pepitas
-    amount: 100
-    unit: grams
-  - name: vegetable oil
-    amount: 150
-    unit: grams
-  - name: maple syrup
-    amount: 250
-    unit: grams
   - name: crunchy cereal
     amount: 150
     unit: grams
@@ -31,11 +18,21 @@ ingredients:
     unit: grams
     amountVolume: 1
     unitVolume: teaspoon
-  - name: peanut butter
+  - name: pepitas
+    amount: 100
+    unit: grams
+  - name: cashews
     amount: 200
     unit: grams
-  - name: almond butter
-    amount: 200
+    prep: chopped
+  - name: vegetable oil
+    amount: 150
+    unit: grams
+  - name: maple syrup
+    amount: 250
+    unit: grams
+  - name: smooth peanut butter
+    amount: 400
     unit: grams
   - name: light brown sugar
     amount: 100
@@ -45,12 +42,10 @@ ingredients:
     unit: grams
 steps:
   - step: Preheat the oven to 300 degrees
-  - step: In a large bowl, stir together the oats, rice krispy cereal, pepitas, cashews, cinnamon, and salt
-  - step: In a second bowl, microwave the peanut butter and almond butter until it becomes runny (~30 seconds)
-  - step: Stir the vegetable oil, honey, light brown sugar, and almond extract into the nut butters
-  - step: Fold the wet ingredients into the dry
+  - step: In a large bowl, stir together the oats, crispy cereal, pepitas, cashews, cinnamon, and salt
+  - step: In a second bowl, combine the peanut butter, vegetable oil, honey, light brown sugar, and almond extract
+  - step: Gently fold the wet ingredients into the dry
   - step: Divide the granola between two Silpat lined half sheet pans
-  - step: Bake for 10 minutes, stir the granola on each pan, then bake for another 10 minutes
+  - step: Bake for 20 minutes
   - step: The granola will not have taken on much color, but will carry over while cooling
   - step: Allow the granola to completely cool on the sheet pans
-  - step: Pour the granola back into the original mixing bowl
