@@ -48,14 +48,13 @@ ingredients:
     unitVolume: cup
 steps:
   - step: Preheat oven to 350
-  - step: Mix flour, salt, and soda of baking in a bowl and set aside
   - step: Cream the butter, light brown sugar, and sugar in a mixer
-  - step: Mix in pudding mix
   - step: Mix in egg and vanilla
+  - step: Mix flour, salt, pudding mix, and soda of baking in a separate bowl
   - step: Barely mix in the combined ap flour and soda of baking
   - step: Gently mix in chocolate chips
-  - step: Using latex gloves, drop 12 balls of dough onto a nonstick cookie sheet
-  - step: Still with gloved hands, quickly roll each drop of dough into a smooth ball
+  - step: (Optional) Refrigerate the dough for at least 4 hours to improve flavor and texture
+  - step: Measure the dough and divide into 12-14 cookies (40-50g per cookie recommended)
   - step: Evenly space the balls on the cookie sheet
   - step: Bake the cookies for 12 minutes, or until the bottoms are barely golden brown
   - step: Quickly move the cookies from the sheet pan onto a cooling rack lined with parchment
@@ -72,3 +71,6 @@ mods:
   - Mix the chunks in with the chocolate chips
   - Equally distribute the large chunks on the top of each dough ball
   - Pull the cookies at the regular time, but let them cool on the tray for 4 minutes before moving to a rack
+  - <h3>Chocolate Orange</h3>
+  - Replace 1/2 the choc chips with chopped chocolate orange candy
+  - Add a teaspoon of orange extract to the dough
