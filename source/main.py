@@ -28,9 +28,6 @@ for root, dirs, files in os.walk(RECIPE_DIR):
 			recipe = yaml.load(stream, Loader=yaml.FullLoader)
 			recipe['title'] = recipe['name'].title().replace("'S ", "'s ")
 			recipe['slug'] = recipe['name'].replace(' ', '-')
-			ingredients = recipe['ingredients']
-			ingredients = sorted(ingredients, key=lambda k: k['name'])
-			recipe['ingredients'] = ingredients
 			if 'subrecipes' in recipe:
 				for subrecipe in recipe['subrecipes']:
 					subrecipe['title'] = subrecipe['name'].title().replace("'S ", "'s ")
