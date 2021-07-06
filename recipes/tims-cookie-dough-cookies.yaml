@@ -1,4 +1,4 @@
-name: soft chocolate chip cookies
+name: tim's cookie dough cookies
 makes: 12 cookies
 ingredients:
   - name: butter
@@ -29,7 +29,7 @@ ingredients:
     amountVolume: 1 1/8
     unitVolume: cup
   - name: salt
-    amount: 1/4
+    amount: 1/2
     unit: teaspoon
   - name: soda of baking
     amount: 3
@@ -48,11 +48,11 @@ ingredients:
     unitVolume: cup
 steps:
   - step: Preheat oven to 350
-  - step: Cream the butter, light brown sugar, and sugar in a mixer
-  - step: Mix in egg and vanilla
-  - step: Mix flour, salt, pudding mix, and soda of baking in a separate bowl
-  - step: Barely mix in the combined ap flour and soda of baking
-  - step: Gently mix in chocolate chips
+  - step: Mix flour, salt, pudding mix, and soda of baking in a small bowl
+  - step: Cream the light brown sugar and white sugar into the butter in a second, larger bowl with a silicone spatula
+  - step: Mix in egg and vanilla until air incorporates into the dough, making it lighter
+  - step: Barely mix the dry into the wet
+  - step: Gently fold in chocolate chips
   - step: (Optional) Refrigerate the dough for at least 4 hours to improve flavor and texture
   - step: Measure the dough and divide into 12-14 cookies (40-50g per cookie recommended)
   - step: Evenly space the balls on the cookie sheet
@@ -62,6 +62,18 @@ notes:
   - The cookies should appear slightly undercooked, do not put them back in the oven
   - This is an original recipe. I wanted a cookie that stayed soft for days in a row and felt like eating barely set cookie dough.
 mods:
+  - <h3>Gluten Free</h3>
+  - Substitute the ap flour 1 to 1 with Namaste Perfect Flour Blend. Add 1 tablespoon / 15 grams of whole milk to the wet ingredients.
+  - <h3>Chocolate Orange</h3>
+  - Replace 1/2 the choc chips with chopped chocolate orange candy
+  - Add a teaspoon of orange extract to the dough
+  - <h3>Peanut Butter Kiss</h3>
+  - Substitute butter and chocolate chips for 160g smooth peanut butter and 90g shortening. Double the salt.
+  - Make cookies that are half the normal size (~24g). Bake for 9 minutes. Press kisses into cookies immediately after leaving oven.
+  - Do not thumb print the cookie dough balls before baking.
+  - There is conflicting data from when I did the trials for the PB cookie. I prefer the mod as written, but a lot of people liked a 50g shortening + 50g butter split instead of 90g shortening.
+  - <h3>Butterscotch Chocolate Chip</h3>
+  - Substitute 60 grams of the chocolate chips for butterscotch chips
   - <h3>Dark chocolate chunk cookies</h3>
   - Add an additional 10g of pudding mix (50g total)
   - Use 47 grams dark chocolate (72% cacao) (1 Trader Joe's bar) and 90 grams chocolate chips
@@ -71,6 +83,3 @@ mods:
   - Mix the chunks in with the chocolate chips
   - Equally distribute the large chunks on the top of each dough ball
   - Pull the cookies at the regular time, but let them cool on the tray for 4 minutes before moving to a rack
-  - <h3>Chocolate Orange</h3>
-  - Replace 1/2 the choc chips with chopped chocolate orange candy
-  - Add a teaspoon of orange extract to the dough

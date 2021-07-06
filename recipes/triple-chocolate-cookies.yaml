@@ -1,4 +1,4 @@
-name: double chocolate cookies
+name: triple chocolate cookies
 ingredients:
   - name: unsalted butter
     amount: 113
@@ -15,7 +15,7 @@ ingredients:
   - name: brown sugar
     amount: 120
     unit: grams
-  - name: vanilla pudding mix
+  - name: chocolate pudding mix
     amount: 40
     unit: grams
   - name: ap flour

@@ -25,14 +25,14 @@ ingredients:
     amount: 200
     unit: grams
     prep: chopped
+  - name: smooth peanut butter
+    amount: 400
+    unit: grams
   - name: vegetable oil
-    amount: 150
+    amount: 125
     unit: grams
   - name: maple syrup
     amount: 250
-    unit: grams
-  - name: smooth peanut butter
-    amount: 400
     unit: grams
   - name: light brown sugar
     amount: 100
