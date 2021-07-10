@@ -1,0 +1,34 @@
+name: kenji's pan pizza dough
+makes: 3 quart containers of dough
+ingredients:
+  - name: bread flour
+    amount: 630
+    unit: grams
+  - name: white sugar
+    amount: 15
+    unit: grams
+  - name: salt
+    amount: 10
+    unit: grams
+  - name: active dry yeast
+    amount: 10
+    unit: grams
+  - name: extra virgin olive oil
+    amount: 30
+    unit: grams
+  - name: water
+    amount: 420
+    unit: grams
+    prep: warm
+steps:
+  - step: Combine dry ingredients in a food processor
+  - step: Pulse three to four times until combined
+  - step: Add wet ingredients and process for 15 seconds
+  - step: Process an additional 15 seconds
+  - step: Bring the dough together into a smooth ball
+  - step: Tightly cover the dough in an oiled metal bowl
+  - step: Let the dough rise in the fridge for 1-3 days
+  - step: Split the ball into thirds and store each portion in a quart container
+  - step: Use immediately, or freeze for up to two months
+notes:
+  - Modified from <a href="https://www.seriouseats.com/basic-new-york-style-pizza-dough">Serious Eats</a>.
