@@ -15,20 +15,20 @@ ingredients:
   - name: brown sugar
     amount: 120
     unit: grams
-  - name: chocolate pudding mix
-    amount: 40
-    unit: grams
+  - name: egg
+    amount: 1
+  - name: vanilla extract
+    amount: 1
+    unit: teaspoon
   - name: ap flour
     amount: 140
+    unit: grams
+  - name: chocolate pudding mix
+    amount: 40
     unit: grams
   - name: dutch process cocoa
     amount: 30
     unit: grams
-  - name: chocolate chips
-    amount: 130
-    unit: grams
-  - name: egg
-    amount: 1
   - name: soda of baking
     amount: 1/2
     unit: teaspoon
@@ -37,9 +37,9 @@ ingredients:
     unit: grams
     amountVolume: 1/2
     unitVolume: teaspoon
-  - name: vanilla extract
-    amount: 1
-    unit: teaspoon
+  - name: chocolate chips
+    amount: 130
+    unit: grams
 steps:
   - step: Preheat oven to 350
   - step: In a stand mixer, cream the shortening, butter, white sugar, and brown sugar
@@ -53,3 +53,8 @@ steps:
   - step: Pull the trays from oven, cool the cookies on the trays
 notes:
   - The amount and kinds of fat make this a difficult recipe to mix by hand
+mods:
+  - <h3>Coco-Cuatro</h3>
+  - <img src="https://raw.githubusercontent.com/XBigTK13X/cooking-recipes/master/asset/image/recipe/coco-cuatro-v001.jpg" />
+  - Add 1 tablespoon milk to the wet mix
+  - Replace chocolate chips with 47g dark chocolate chunks, 50g chopped pecans, and 33g choc chips
