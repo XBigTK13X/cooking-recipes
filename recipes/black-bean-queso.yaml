@@ -1,0 +1,37 @@
+name: black bean queso
+makes: 1.5 quarts
+ingredients:
+  - name: vegetable oil
+    amount: 1
+    unit: teaspoon
+  - name: black beans
+    prep: canned
+    amount: 15
+    unit: ounces
+  - name: Tostito's Medium Queso
+    amount: 15 
+    unit: ounces
+  - name: Full fat small curd cottage cheese
+    amount: 8
+    unit: ounces
+  - name: cumin
+    amount: 1
+    unit: teaspoon
+  - name: dehydrated onion
+    amount: 1
+    unit: teaspoon
+  - name: corn starch
+    prep: slurry
+    amount: 2
+    unit: teaspoons
+  - name: hot sauce
+    amount: 3
+    unit: shakes
+steps:
+  - step: Heat the oil in a saucepan
+  - step: Drain and rinse the canned beans
+  - step: Stir the beans into the oil until warm
+  - step: Stir the queso and cottage cheese into the beans until warm
+  - step: Stir in the cumin, dehydrated onion, and hot sauce
+  - step: Stir in the cornstarch slurry and bring to a boil
+  - step: Once thickened, serve immediately
