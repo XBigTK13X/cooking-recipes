@@ -1,0 +1,28 @@
+name: popcorn
+makes: 1 large bowl
+ingredients:
+  - name: popcorn kernels
+    amount: 100
+    unit: grams
+  - name: corn oil
+    amount: 100
+    unit: grams
+  - name: clarified butter / ghee
+    amount: 60 
+    unit: ounces
+  - name: popcorn salt
+    amount: 1/2
+    unit: teaspoon
+steps:
+  - step: Heat the oil over a medium flame
+  - step: Add three kernels to the pot
+  - step: Once they pop, add the remaining kernels
+  - step: Microwave the ghee in a small bowl for 35 seconds
+  - step: Vigorously shake the popcorn and frequently allow steam to escape
+  - step: As soon as the popping noises stop, dump the pot's contents into a large bowl
+  - step: Evenly pour the ghee over the popcorn
+  - step: Evenly spinkle the salt over the popcorn
+  - step: Toss the bowl a few times until well mixed
+mods:
+  - <h3>Cheesy Popcorn</h3>
+  - Make the normal recipe, then toss in 50 grams of cheddar powder. Top with 1 ounce finely shredded cheddar cheese.
