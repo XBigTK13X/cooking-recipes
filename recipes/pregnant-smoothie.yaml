@@ -5,7 +5,7 @@ ingredients:
   - name: water
     amount: 2
     unit: cups
-  - name: fat plain greek yogurt
+  - name: plain greek yogurt
     amount: 200
     unit: grams
     prep: "at least 2% fat"
