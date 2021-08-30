@@ -1,0 +1,41 @@
+name: Pregnant Smoothie
+makes: 2 smoothies
+image:
+ingredients:
+  - name: water
+    amount: 2
+    unit: cups
+  - name: fat plain greek yogurt
+    amount: 200
+    unit: grams
+    prep: "at least 2% fat"
+  - name: honey
+    amount: 40
+    unit: grams
+  - name: salt
+    amount: 1
+    unit: pinch
+  - name: whole rolled oats
+    amount: 50
+    unit: grams
+  - name: vegetables
+    amount: 100
+    unit: grams
+    prep: frozen
+  - name: banana 
+    amount: 1
+    prep: frozen
+  - name: fruit
+    amount: 350
+    unit: grams
+    prep: frozen
+  - name: vanilla extract
+    amount: 1
+    unit: splash
+steps:
+  - step: Add the ingredients in the order listed to a high power blender.
+  - step: Blend until uniform and smooth
+  - step: Divide into two servings
+notes:
+  - The ingredients are listed in the order they enter the blender.
+  - Kathryn always drank this when she was in the first trimester. It is easier to vomit a smoothie than a handful of granola.  
