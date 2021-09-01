@@ -1,4 +1,4 @@
-name: Pregnant Smoothie
+name: pregnant smoothie
 makes: 2 smoothies
 image:
 ingredients:
@@ -17,6 +17,9 @@ ingredients:
     unit: pinch
   - name: whole rolled oats
     amount: 50
+    unit: grams
+  - name: cashews
+    amount: 40
     unit: grams
   - name: vegetables
     amount: 100
@@ -38,4 +41,5 @@ steps:
   - step: Divide into two servings
 notes:
   - The ingredients are listed in the order they enter the blender.
+  - You can substitute 30 grams of fresh veg for the 100 grams of frozen
   - Kathryn always drank this when she was in the first trimester. It is easier to vomit a smoothie than a handful of granola.  
