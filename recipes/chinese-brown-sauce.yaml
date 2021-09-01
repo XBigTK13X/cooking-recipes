@@ -1,0 +1,49 @@
+name: chinese brown sauce
+makes: 2 person takeout worth
+ingredients:
+  - name: cornstarch
+    amount: 10
+    unit: grams
+  - name: chicken stock
+    amount: 25
+    unit: grams
+  - name: monosodium glutamate
+    amount: 1
+    unit: pinch
+  - name: garlic
+    amount: 1
+    unit: clove
+  - name: green onion
+    amount: 2
+    unit: stalk
+    prep: (chopped whites)
+  - name: ginger powder
+    amount: 1 
+    unit: pinch
+  - name: brown sugar
+    amount: 10
+    unit: grams
+  - name: rice wine vinegar
+    amount: 2
+    unit: grams
+    amountVolume: 1
+    unitVolume: splash
+  - name: dark soy sauce
+    amount: 25
+    unit: grams
+  - name: oyster sauce
+    amount: 20
+    unit: grams
+  - name: better than boullion
+    amount: 10
+    unit: grams
+  - name: sesame oil
+    amount: 15
+    unit: grams
+steps:
+  - step: In a small bowl, whisk together the stock and cornstarch until starch clumps are dissolved
+  - step: Whisk the remaining ingredients into the bowl until combined
+  - step: Add to a hot wok/pan to cooked protein and veg
+  - step: Toss until sauce thickens
+notes:
+  - Add heat to taste. I like adding white pepper and chili sauces
