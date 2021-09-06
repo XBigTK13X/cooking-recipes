@@ -1,0 +1,25 @@
+name: pizza sauce
+makes: 2-3 pies worth of pizza
+ingredients:
+  - name: tomatoes
+    amount: 28
+    unit: ounces
+    prep: whole peeled
+  - name: olive oil
+    amount: 45
+    unit: grams
+    prep: extra virgin
+  - name: kosher salt
+    amount: 1
+    unit: teaspoon
+  - name: basil
+    amount: 20
+    unit: grams
+    prep: chopped
+steps:
+  - step: In a tall container, dump the can of tomatoes
+  - step: Using your hands, gently break the tomoatoes apart. Make sure to leave some large chunks, don't get it too soupy.
+  - step: Stir in the olive oil, salt, and basil
+  - step: Use immediately, or fridge for a couple of weeks
+notes:
+  - step: If it gets too hot out, it can be impossible to find good Basil. I have subbed in squeeze tubes of Basil paste (to taste) in a pinch and it worked great.

@@ -1,6 +1,5 @@
 name: pregnant smoothie
 makes: 2 smoothies
-image:
 ingredients:
   - name: water
     amount: 2
