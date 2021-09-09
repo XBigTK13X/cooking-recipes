@@ -1,5 +1,6 @@
 name: pregnant smoothie
 makes: 2 smoothies
+calories: 530 each
 ingredients:
   - name: water
     amount: 2
