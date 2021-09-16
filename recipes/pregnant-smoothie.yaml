@@ -9,17 +9,14 @@ ingredients:
     amount: 200
     unit: grams
     prep: "at least 2% fat"
-  - name: honey
-    amount: 40
+  - name: protein powder
+    amount: 50
     unit: grams
   - name: salt
     amount: 1
     unit: pinch
-  - name: whole rolled oats
-    amount: 50
-    unit: grams
   - name: cashews
-    amount: 40
+    amount: 50
     unit: grams
   - name: vegetables
     amount: 100
@@ -32,14 +29,11 @@ ingredients:
     amount: 350
     unit: grams
     prep: frozen
-  - name: vanilla extract
-    amount: 1
-    unit: splash
 steps:
   - step: Add the ingredients in the order listed to a high power blender.
   - step: Blend until uniform and smooth
   - step: Divide into two servings
 notes:
   - The ingredients are listed in the order they enter the blender.
-  - You can substitute 30 grams of fresh veg for the 100 grams of frozen
+  - You can substitute 40 grams of fresh veg for the 100 grams of frozen
   - Kathryn always drank this when she was in the first trimester. It is easier to vomit a smoothie than a handful of granola.  
