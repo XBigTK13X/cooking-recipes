@@ -1,0 +1,33 @@
+name: crab rangoon dipping sauce
+ingredients:
+  - name: rice vinegar
+    amount: 1/2
+    unit: cup
+  - name: brown sugar
+    amount: 3/4
+    unit: cup
+  - name: ketchup
+    amount: 2
+    unit: tablespoons
+  - name: red chile flakes or chile paste
+    amount: 2
+    unit: teaspoons
+  - name: water
+    amount: 1/2
+    unit: cup
+  - name: water
+    amount: 1
+    unit: tablespoon
+  - name: corn starch
+    amount: 1
+    unit: tablespoon
+  - name: pineapple chunks
+    amount: 1/2
+    unit: cup
+steps:
+  - step: Combine vinegar, brown sugar, ketchup, chili flakes, and water in a small saucepan and bring to a simmer over medium-high heat, whisking to combine until sugar is dissolved
+  - step: Combine remaining tablespoon water and corn starch in a small bowl and whisk with a fork to form a slurry.
+  - step: Whisk slurry into the sauce and bring to a boil.
+  - step: Add the pineapple chunks and hit the whole pot with in immersion blender
+notes:
+  - Taken from <a href="https://www.seriouseats.com/crab-rangoon-crab-puffs-recipe">Serious Eats</a>

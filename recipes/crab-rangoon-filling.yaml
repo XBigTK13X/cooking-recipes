@@ -1,0 +1,42 @@
+name: crab rangoon
+makes: 50 rangoon
+ingredients:
+  - name: wonton
+    amount: 50
+    unit: wrappers
+  - name: cream cheese
+    amount: 8
+    unit: ounces
+  - name: imitation crab
+    amount: 4
+    unit: ounces
+  - name: whiter sugar
+    amount: 1
+    unit: teaspoon
+  - name: green onion
+    amount: 1
+    unit: stalk
+    prep: chopped
+  - name: chili paste
+    amount: 1/2
+    unit: teaspoon
+  - name: garlic powder
+    amount: 1/2
+    unit: teaspoon
+  - name: salt
+    amount: 1
+    unit: pinch
+  - name: black pepper
+    amount: 1 
+    unit: pinch
+steps:
+  - step: Mix everything but the wontons in a bowl
+  - step: One wonton at a time, add 6-8 grams of filling to the wrapper
+  - step: Wet two edges of the wrapper and work all air out while closing.
+  - step: Wrap the three points beyond the wrapper to form a little pouch or envelope
+  - step: Freeze until ready to fry, or cook immediately
+  - step: Heat oil to 375 and an oven to keep warm with a sheet pan and cooling rack with paper towels
+  - step: Add a few wontons at a time to the oil, pull once desired browning acheived. Store in oven until all rangoon are cooked.
+  - step: Serve with Rangoon Dipping Sauce
+notes:
+  - Modified from <a href="https://www.seriouseats.com/crab-rangoon-crab-puffs-recipe">Serious Eats</a>
