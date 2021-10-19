@@ -1,0 +1,41 @@
+name: kenji's pancakes
+ingredients:
+  - name: ap flour
+    amount: 5
+    unit: ounces
+  - name: powder of baking
+    amount: 1/2
+    unit: teaspoon
+  - name: soda of baking
+    amount: 1/4
+    unit: teaspoon
+  - name: white sugar
+    amount: 1/2
+    unit: tablespoon
+  - name: large egg
+    amount: 1
+    prep: separated
+  - name: unsalted butter
+    amount: 2
+    unit: tablespoons
+    prep: melted
+  - name: buttermilk
+    unit: 6
+    amount: ounces
+  - name: sour cream
+    unit: 4
+    amount: ounces
+steps:
+  - step: Preheat a griddle to 325
+  - step: Preheat oven to "Keep warm" setting with a cooling rack on a sheet pan
+  - step: Combine dry ingredients in bowl
+  - step: In an imersion blender column, whip the white of an egg to stiff peaks
+  - step: In a second glass bowl, melt the butter
+  - step: Stir the buttermilk, egg yolk, and sour cream into the melted butter
+  - step: Gently fold the whipped egg whites into the wet mix
+  - step: Gently combine the wet mix into the dry mix
+  - step: Dish pancakes out onto the griddle at desired size
+  - step: Once cooked through, keep warm in oven
+notes:
+  - Taken from <a href="https://www.seriouseats.com/light-and-fluffy-pancakes-recipe">Serious Eats</a>.
+  - The sour cream can be substituted 1 to 1 with more buttermilk, but the final texture won't be quite as fluffy

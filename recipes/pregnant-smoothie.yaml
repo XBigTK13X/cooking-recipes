@@ -14,9 +14,6 @@ ingredients:
   - name: protein powder
     amount: 50
     unit: grams
-  - name: salt
-    amount: 1
-    unit: pinch
   - name: cashews
     amount: 50
     unit: grams
