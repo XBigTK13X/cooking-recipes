@@ -1,0 +1,44 @@
+name: stovetop mac and cheese
+ingredients:
+  - name: house cheese blend
+    amount: 5
+    unit: oz
+  - name: butter
+    amount: 1
+    unit: tablespoon
+  - name: cream
+    amount: 1/2
+    unit: cup
+  - name: moscato
+    amount: 1/8
+    unit: cup
+  - name: cheddar cheese powder
+    amount: 1
+    unit: oz
+  - name: real bacon bits
+    amount: .4
+    unit: oz
+  - name: large elbow maccaroni
+    amount: 10
+    unit: oz
+    prep: dry
+  - name: house cheese blend
+    amount: 1
+    unit: oz
+steps:
+  - step: In a medium pot, bring enough water to cover the twice the pasta's height to a boil
+  - step: Once the water is boiling, add a heavy pinch of salt to the water
+  - step: Add the elbow noodles to the water and cook for 6 minutes, or until al dente
+  - step: Drain the noodles
+  - step: In the now empty pot, bring bacon bits and butter to a simmer
+  - step: Whisk the pot while adding the next ingredients
+  - step: Add the wine to the pot, bring to a simmer
+  - step: Add the cream to the pot, bring to a simmer
+  - step: Add the larger portion of cheese blend to the pot, bring to a simmer
+  - step: Sprinkle the cheese powder over the sauce, bring to a simmer
+  - step: Whisk the cheese powder until the sauce completely absorbs it, and no granules are visible
+  - step: Dump the cooked, drained noodles into the pot, stir until warm
+  - step: Let the noodles bond with the sauce, and then plate
+  - step: Sprinkle the smaller portion of cheese blend over the plated mac and cheese
+subrecipes:
+  - name: house cheese blend

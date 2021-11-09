@@ -1,44 +1,46 @@
 name: stovetop mac and cheese
 ingredients:
-  - name: house cheese blend
-    amount: 5
-    unit: oz
-  - name: butter
+  - name: elbow macaroni
+    amount: 140
+    unit: grams
+  - name: salted butter
+    amount: 2
+    unit: tablespoons
+  - name: ap flour 1 T
     amount: 1
     unit: tablespoon
   - name: cream
-    amount: 1/2
-    unit: cup
-  - name: moscato
-    amount: 1/8
-    unit: cup
+    amount: 1
+    unit: tablespoon
   - name: cheddar cheese powder
-    amount: 1
-    unit: oz
-  - name: real bacon bits
-    amount: .4
-    unit: oz
-  - name: large elbow maccaroni
+    amount: 40
+    unit: grams
+  - name: butter powder
     amount: 10
-    unit: oz
-    prep: dry
+    unit: grams
+  - name: cottage cheese
+    amount: 4
+    unit: tablespoons
+  - name: extra sharp cheddar
+    amount: 2
+    unit: ounces
+    prep: grated
   - name: house cheese blend
     amount: 1
     unit: oz
+  - name: whole milk
+    amount: between 1/4 and 1/2
+    unit: cup
 steps:
-  - step: In a medium pot, bring enough water to cover the twice the pasta's height to a boil
-  - step: Once the water is boiling, add a heavy pinch of salt to the water
-  - step: Add the elbow noodles to the water and cook for 6 minutes, or until al dente
-  - step: Drain the noodles
-  - step: In the now empty pot, bring bacon bits and butter to a simmer
-  - step: Whisk the pot while adding the next ingredients
-  - step: Add the wine to the pot, bring to a simmer
-  - step: Add the cream to the pot, bring to a simmer
-  - step: Add the larger portion of cheese blend to the pot, bring to a simmer
-  - step: Sprinkle the cheese powder over the sauce, bring to a simmer
-  - step: Whisk the cheese powder until the sauce completely absorbs it, and no granules are visible
-  - step: Dump the cooked, drained noodles into the pot, stir until warm
-  - step: Let the noodles bond with the sauce, and then plate
-  - step: Sprinkle the smaller portion of cheese blend over the plated mac and cheese
-subrecipes:
-  - name: house cheese blend
+  - step: Add the noodles and a few heavy pinches of salt to a medium pot
+  - step: Add enough water to cover 2 times the height of the noodles
+  - step: Bring the pot to a boil
+  - step: Once the noodles are al dente, drain them and set aside
+  - step: In the now empty pot, melt the ap flour and butter together to form a rue
+  - step: "Whisk the contents and add each of the following ingredients one at a time until fully incorporated: cream, butter powder, cheese powder, cottage cheese"
+  - step: Drizzle in milk while whisking until desired thiness is reached
+  - step: Add the grated cheese to the pot, stir until melted
+  - step: Stir in the cooked noodles.
+  - step: Add salt and pepper to taste
+notes:
+  - Do not use preshredded cheese. The dish will become gloopy instead of smooth.
