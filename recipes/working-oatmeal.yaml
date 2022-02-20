@@ -1,0 +1,35 @@
+name: working oatmeal
+makes: 10 servings
+ingredients:
+  - name: whole rolled oats
+    amount: 370
+    unit: grams
+  - name: cashews
+    amount: 120
+    unit: grams
+    prep: ground
+  - name: protein powder
+    amount: 70
+    unit: grams
+  - name: water
+    amount: 1400
+    unit: grams
+  - name: vegetable oil
+    amount: 120
+    unit: grams
+  - name: dry fruit
+    amount: 220
+    unit: grams
+  - name: salt
+    amount: 1
+    unit: pinch
+steps:
+  - step: Mix all of the ingredients in a large container
+  - step: Stick in the fridge overnight
+  - step: Dish out 1/10 of the mix (~250g frozen fruit or ~220g dried)
+  - step: Microwave each serving for 3 minutes 30 seconds
+notes:
+  - If using frozen fruit, add a drizzle of honey, maple syrup, etc
+  - I like to make a big batch on Sunday night. Then we eat it throughout the week.
+mods:
+  - Use 750g of fresh fruit instead of 220g of fresh. Lower water to 1000g
