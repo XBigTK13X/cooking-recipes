@@ -123,6 +123,7 @@ Add 1 cooker cup of rice
 Pinch of salt
 Table boulion
 Use 2 cooker heights of liquid ( a little less)
+Add crushed garlic clove to rice cooker
 
 Mocha chip cookie mod
 1 teaspoon instant coffee
