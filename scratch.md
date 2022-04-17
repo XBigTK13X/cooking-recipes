@@ -132,3 +132,22 @@ Mocha chip cookie mod
 # Sloppy Joes
 
 Might just be ketchup with brown sugar and maybe some sweet peppers
+
+# Shortbread cookies
+1 cup ap flour
+1 stick butter
+1/2 cup sugar
+juice 1 lemon
+1 teaspoon lemon extract
+1 T milk
+2 T vanilla pudding mix
+
+Rest in fridge
+Small ice cream scoop
+19 minutes @ 350
+use tablespoon to indent each cookie
+fill with a mix of jam and confectioner's sugar
+
+Rock hard after baking
+Soften up a bit the next day
+Maybe a touch less flour?
