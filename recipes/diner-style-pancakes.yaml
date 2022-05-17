@@ -2,8 +2,10 @@ name: diner style pancakes
 makes: 6 pancakes
 ingredients:
   - name: ap flour
-    amount: 1
-    unit: cup
+    amountVolume: 1
+    unitVolume: cup
+    amount: 150
+    unit: grams
   - name: sugar
     amount: 1
     unit: teaspoon
