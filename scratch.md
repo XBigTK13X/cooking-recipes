@@ -151,3 +151,8 @@ fill with a mix of jam and confectioner's sugar
 Rock hard after baking
 Soften up a bit the next day
 Maybe a touch less flour?
+
+# One Bite Cookies
+https://sallysbakingaddiction.com/oatmeal-chocolate-chip-cookies/
+
+Use ~10 grams per cookie, 7-8 minutes cooking time
