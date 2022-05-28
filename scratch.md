@@ -156,3 +156,4 @@ Maybe a touch less flour?
 https://sallysbakingaddiction.com/oatmeal-chocolate-chip-cookies/
 
 Use ~10 grams per cookie, 7-8 minutes cooking time
+ - 8-9 minutes produced soft cookies, 10-11 minutes produced dry cookies
