@@ -157,3 +157,35 @@ https://sallysbakingaddiction.com/oatmeal-chocolate-chip-cookies/
 
 Use ~10 grams per cookie, 7-8 minutes cooking time
  - 8-9 minutes produced soft cookies, 10-11 minutes produced dry cookies
+
+# Teriyaki Sauce
+Actual, genuine, authentic Teriyaki is just 2:2:1 Soy Sauce:Mirin:Sugar.
+
+American version adds honey, cornstarch, garlic, ginger
+
+# Lo mein sauce
+garlic, ginger, salt, oyster, soy, dark soy, sesame oil
+coat noodles in oil immediately after cooked. Otherwise they get gluey
+
+# Scratchy Joe
+Onion
+Pepper
+Chipotle tobasco
+Chopped up beef patties
+Tater tots
+Shredded cheddar
+Ketchup
+Brown sugar
+Salt
+Pepper
+
+# Candy Cane Powder
+THrow candy canes into a food processor or mortar and pestle
+
+# Greek dressing
+1 pt lemon juice
+4 pt red wine vin
+4 pt olive oil
+1 T oregano
+Pinch salt pepper
+1/2 cup feta fine crumble
