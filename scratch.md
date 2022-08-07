@@ -1,3 +1,59 @@
+# Mayo
+
+
+    2 large eggs
+
+    2 tablespoon (30ml) acid (red wine vinegar, lemon juice, etc)
+
+    2 teaspoon mustard (dijon, spicy brown, etc)
+
+    1 medium clove garlic, minced (optional, often don't add this)
+
+    2 cup (480ml) vegetable or canola oil
+
+    1 teaspoon Kosher salt
+
+
+
+# Reverse Sear Chart
+For 1 1/2–Inch Steaks in a 250°F (120°C) Oven
+| Doneness    | Target Temperature in the Oven | Final Target Temperature | Approximate Time in Oven |
+| ------------|--------------------------------|--------------------------|--------------------------|
+| Rare        | 105°F (40°C)                   | 120°F (49°C)             | 20 to 25 minutes         |
+| Medium-Rare | 115°F (46°C)                   | 130°F (54°C)             | 25 to 30 minutes         |
+| Medium      | 125°F (52°C)                   | 140°F (60°C)             | 30 to 35 minutes         |
+| Medium-Well | 135°F (57°C)                   | 150°F (66°C)             | 35 to 40 minutes         |
+
+# Tartufo
+Choc/coffee
+Or
+Choc/cherry
+
+Kat notes. Liked the cookie layer. Chocolate shell tasted great. As it warmed up the shell got easier to eat. At first, the chocolate was a bit too hard to eat. Maybe make it more brittle or softer
+
+Fudge - 3 parts corn syrup instead of 2
+Crumbled choc teddy ghrarm under fudge shell.
+
+1. Push ice cream into two small glass bowls lined with plastic wrap
+2. Push a cherry marashino into center each
+3. Freeze
+4. Release from bowls, smoosh together
+5. Coat in teddy choc teddy ghrarhm crumbles
+6. Enrobe in fudge
+
+# Tully's Tenders Breading
+Might be Mccormick all purpose goldendipt made with milk. Want to find a way to purchase in a smaller qmaount than 50 lb bags.
+
+# Choc Fluff Frosting
+20g choc chips
+10g cream
+15 seconds
+Stir til smooth
+10g marsh fluff
+Sprinkle choc chips
+
+Enough for two cupcakes
+
 # Chinese
 
 Cashew, fried rice, pineapple, stir fry veg, chicken velvetted
