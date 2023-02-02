@@ -13,7 +13,66 @@
 
     1 teaspoon Kosher salt
 
+# Ice cream fudge + Cyclones
 
+fudge
+Makes two cyclones worth
+choc chip 40g (white Costco bag, the good stuff)
+veg oil 5g
+cream 5g
+corn syrup 5g
+
+Nuke choc chips, oil, and cream for 20 seconds. Agressively fold in corn syrup and cool.
+
+cyclone - drumstick
+fudge 25g 
+unsalted roasted peanuts 15g 
+waffle cone pieces 8g (or animal cracker/ghrahm cracker 15g)
+premium frozen custard (like costco vanilla) 200g or 1 cup (whichever is less)(lower quality ice creams would take too much volume to hit 200g)
+
+Spread the ice cream on a large flat surface. Sprinkle on toppings and drop a couple spots of fudge. Quickly whack at it with an ice cream spade and bench scraper until it just comes together. Hit the freezer for 15 minutes.
+
+cyclone - pb cup
+same as above, but ice cream only plus 36g of reece's peanut butter eggs, hearts, or trees. Add in 5-10g of unsalted roasted peanuts to take it to the next level. Make sure to work it a little so the PB gets partially incorporated in the ice cream.
+
+# Peanut Butter Hummus
+
+chickpeas drained 255g (1 15.5oz can)
+lemon juice (1 lemon, 30g)
+creamy peanut butter 5g
+garlic 2g (1 clove)chickpea liquid 50g (4 Tablespoons)
+olive oil 30g
+salt+pepper pinch
+
+# Christmas sugar cookies base
+
+https://www.seriouseats.com/rolled-sugar-cookie-recipe
+
+# Popcorn
+
+popcorn 100g (~1/2 cup)
+flavacol 1/2 teaspoon
+corn oil 100g
+
+serve as is for Kat and Link
+
+barely cook water out of 25g high quality butter
+drizzle over popcorn (50g unpopped)(half batch)
+light sprinkle of flavacol on top of that
+
+serve for Tim
+
+# Hot Cocoa
+
+2 mugs of whole milk (~4 cups)
+
+1/2 cup white sugar
+
+1/4 cup high quality dutch process cocoa powder
+
+1/4 cup high quality (white bag costco) choc chips
+
+splash vanilla, dash nutmeg, sprinkle instant coffee, two soft peppermint candies
 
 # Reverse Sear Chart
 For 1 1/2–Inch Steaks in a 250°F (120°C) Oven
@@ -23,6 +82,53 @@ For 1 1/2–Inch Steaks in a 250°F (120°C) Oven
 | Medium-Rare | 115°F (46°C)                   | 130°F (54°C)             | 25 to 30 minutes         |
 | Medium      | 125°F (52°C)                   | 140°F (60°C)             | 30 to 35 minutes         |
 | Medium-Well | 135°F (57°C)                   | 150°F (66°C)             | 35 to 40 minutes         |
+
+# Funeral Potatoes
+Funeral Potatoes
+
+https://www.reddit.com/r/exmormon/comments/nab3s5/whats_your_best_funeral_potato_recipe_i_want_to/
+
+https://tastesbetterfromscratch.com/funeral-potatoes/
+
+# Shortbread
+
+sugar 115g / 1/2 cup
+1 lemon 40g juice
+1 lemon zest
+vanilla pudding 30g
+milk 10g
+dash yellow powder
+ap flour 120g (2/3 cup + 2T)
+1 teaspoon salt
+17 minutes at 350
+
+# Pumpkin Bomb
+
+Canned pumpkin 10g
+pumpkin spice .1g
+brown sugar 5g
+splash of cream
+1 animal cracker in ice cream with bomb for a great cyclone. top with more pump spice
+
+v2
+1 can pumpkin 420g
+1.5 teapsoons pump spice 4.5g
+3/4 cup brown sugar 175g
+60g pump mixture + 15g animal cracker in cyclone
+
+# Coleslaw
+4 parts red cabbage sliced thin
+1 part kale chopped
+1 part carrot grated
+heavy pinch salt
+home made mayo 2 tablespoons
+apple cider vinegar 2 tablepsoons
+white sugar 1 tablespoon
+
+# Salsa
+I tried five different attempts with canned stuff. Always wound up tasting bad. Like some jarred salsas from the store currently.
+
+fire roasted tomoatoes, chiles, jalapeno, onion, sugar, cilantro, garlic, cayenne, vinegar
 
 # Tartufo
 Choc/coffee

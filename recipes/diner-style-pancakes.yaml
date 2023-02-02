@@ -7,7 +7,7 @@ ingredients:
     amount: 150
     unit: grams
   - name: sugar
-    amount: 1
+    amount: 2
     unit: teaspoon
   - name: salt
     amount: 1
@@ -29,7 +29,7 @@ ingredients:
     prep: melted
   - name: vegetable oil
     unit: cup
-    amount: 1/2
+    amount: 1/4
 steps:
   - step: Mix all of the dry ingredients together.
   - step: Preheat a griddle to 325
