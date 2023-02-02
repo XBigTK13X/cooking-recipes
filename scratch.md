@@ -17,10 +17,10 @@
 
 fudge
 Makes two cyclones worth
-choc chip 40g (white Costco bag, the good stuff)
-veg oil 5g
-cream 5g
-corn syrup 5g
+  - choc chip 40g (white Costco bag, the good stuff)
+  - veg oil 5g
+  - cream 5g
+  - corn syrup 5g
 
 Nuke choc chips, oil, and cream for 20 seconds. Agressively fold in corn syrup and cool.
 
