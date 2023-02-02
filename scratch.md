@@ -25,10 +25,10 @@ Makes two cyclones worth
 Nuke choc chips, oil, and cream for 20 seconds. Agressively fold in corn syrup and cool.
 
 cyclone - drumstick
-fudge 25g 
-unsalted roasted peanuts 15g 
-waffle cone pieces 8g (or animal cracker/ghrahm cracker 15g)
-premium frozen custard (like costco vanilla) 200g or 1 cup (whichever is less)(lower quality ice creams would take too much volume to hit 200g)
+  - fudge 25g 
+  - unsalted roasted peanuts 15g 
+  - waffle cone pieces 8g (or animal cracker/ghrahm cracker 15g)
+  - premium frozen custard (like costco vanilla) 200g or 1 cup (whichever is less)(lower quality ice creams would take too much volume to hit 200g)
 
 Spread the ice cream on a large flat surface. Sprinkle on toppings and drop a couple spots of fudge. Quickly whack at it with an ice cream spade and bench scraper until it just comes together. Hit the freezer for 15 minutes.
 
@@ -37,12 +37,12 @@ same as above, but ice cream only plus 36g of reece's peanut butter eggs, hearts
 
 # Peanut Butter Hummus
 
-chickpeas drained 255g (1 15.5oz can)
-lemon juice (1 lemon, 30g)
-creamy peanut butter 5g
-garlic 2g (1 clove)chickpea liquid 50g (4 Tablespoons)
-olive oil 30g
-salt+pepper pinch
+  - chickpeas drained 255g (1 15.5oz can)
+  - lemon juice (1 lemon, 30g)
+  - creamy peanut butter 5g
+  - garlic 2g (1 clove)chickpea liquid 50g (4 Tablespoons)
+  - olive oil 30g
+  - salt+pepper pinch
 
 # Christmas sugar cookies base
 
@@ -50,9 +50,9 @@ https://www.seriouseats.com/rolled-sugar-cookie-recipe
 
 # Popcorn
 
-popcorn 100g (~1/2 cup)
-flavacol 1/2 teaspoon
-corn oil 100g
+  - popcorn 100g (~1/2 cup)
+  - flavacol 1/2 teaspoon
+  - corn oil 100g
 
 serve as is for Kat and Link
 
@@ -92,15 +92,15 @@ https://tastesbetterfromscratch.com/funeral-potatoes/
 
 # Shortbread
 
-sugar 115g / 1/2 cup
-1 lemon 40g juice
-1 lemon zest
-vanilla pudding 30g
-milk 10g
-dash yellow powder
-ap flour 120g (2/3 cup + 2T)
-1 teaspoon salt
-17 minutes at 350
+  - sugar 115g / 1/2 cup
+  - 1 lemon 40g juice
+  - 1 lemon zest
+  - vanilla pudding 30g
+  - milk 10g
+  - dash yellow powder
+  - ap flour 120g (2/3 cup + 2T)
+  - 1 teaspoon salt
+  - 17 minutes at 350
 
 # Pumpkin Bomb
 
@@ -111,19 +111,19 @@ splash of cream
 1 animal cracker in ice cream with bomb for a great cyclone. top with more pump spice
 
 v2
-1 can pumpkin 420g
-1.5 teapsoons pump spice 4.5g
-3/4 cup brown sugar 175g
-60g pump mixture + 15g animal cracker in cyclone
+  - 1 can pumpkin 420g
+  - 1.5 teapsoons pump spice 4.5g
+  - 3/4 cup brown sugar 175g
+  - 60g pump mixture + 15g animal cracker in cyclone
 
 # Coleslaw
-4 parts red cabbage sliced thin
-1 part kale chopped
-1 part carrot grated
-heavy pinch salt
-home made mayo 2 tablespoons
-apple cider vinegar 2 tablepsoons
-white sugar 1 tablespoon
+  - 4 parts red cabbage sliced thin
+  - 1 part kale chopped
+  - 1 part carrot grated
+  - heavy pinch salt
+  - home made mayo 2 tablespoons
+  - apple cider vinegar 2 tablepsoons
+  - white sugar 1 tablespoon
 
 # Salsa
 I tried five different attempts with canned stuff. Always wound up tasting bad. Like some jarred salsas from the store currently.
