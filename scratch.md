@@ -13,6 +13,62 @@
 
     1 teaspoon Kosher salt
 
+# Biscuits
+
+This is the third or fourth recipe I've tried. Its the only one that's any good. Really close to a perfect biscuit. I like using a pizza cutter to make square biscuits, that way the dough doesn't need to be rerolled. I do try to trim the edges to allow even rising.
+
+https://sallysbakingaddiction.com/flaky-buttermilk-biscuits/
+
+
+Homemade Buttermilk Biscuits
+★★★★★ 4.8 from 421 reviews
+
+    Author: Sally Prep Time: 20 minutes Cook Time: 15 minutes Total Time: 35 minutes Yield: 8-10 biscuits 
+
+Print Recipe
+Pin Recipe
+Description
+
+These homemade buttermilk biscuits are soft and buttery with hundreds of flaky layers! This biscuit recipe only requires 6 simple ingredients and they’re ready in about 35 minutes.
+Ingredients
+
+    2 and 1/2 cups (313g) all-purpose flour (spooned & leveled), plus more as needed for hands and work surface
+    2 Tablespoons aluminum free baking powder (yes, Tablespoons)
+    1 teaspoon salt
+    1/2 cup (1 stick; 113g) unsalted butter, cubed and very cold (see note)
+    1 cup + 2 Tablespoons (270ml) cold buttermilk, divided
+    2 teaspoons (14g) honey
+    optional honey butter topping: 2 Tablespoons melted butter mixed with 1 Tablespoon honey
+
+Instructions
+
+    Preheat oven to 425°F (218°C).
+    Make the biscuits: Place the flour, baking powder, and salt together in a large bowl or in a large food processor. Whisk or pulse until combined. Add the cubed butter and cut into the dry ingredients with a pastry cutter or by pulsing several times in the processor. Cut/pulse until coarse crumbs form. See photo above for a visual. If you used a food processor, pour the mixture into a large bowl.
+    Make a well in the center of the mixture. Pour 1 cup (240ml) buttermilk and drizzle honey on top. Fold everything together with a large spoon or spatula until it begins to come together. Do not overwork the dough. The dough will be shaggy and crumbly with some wet spots. See photo above for a visual.
+    Pour the dough and any dough crumbles onto a floured work surface and gently bring together with generously floured hands. The dough will become sticky as you bring it together. Have extra flour nearby and use it often to flour your hands and work surface in this step. Using floured hands, flatten into a 3/4 inch thick rectangle as best you can. Fold one side into the center, then the other side on top. Turn the dough horizontally. Gently flatten into a 3/4 inch thick rectangle again. Repeat the folding again. Turn the dough horizontally one more time. Gently flatten into a 3/4 inch thick rectangle. Repeat the folding one last time. Flatten into the final 3/4 inch thick rectangle.
+    Cut into 2.5 or 3-inch circles with a biscuit cutter. (Tip: Do not twist the biscuit cutter when pressing down into the dough because this seals off the edges of the biscuit which prevents them from fully rising.) Re-roll scraps until all the dough is used. You should have about 8-10 biscuits. Arrange in a 10-inch cast iron skillet (see note) or close together on a parchment paper-lined baking sheet. Make sure the biscuits are touching.
+    Brush the tops with remaining buttermilk. Bake for 18-20 minutes or until tops are golden brown.
+    Remove from the oven, and then brush warm tops with optional honey butter, and serve warm.
+    Cover leftovers tightly and store at room temperature or in the refrigerator for up to 5 days.
+
+Notes
+
+    Make Ahead & Freezing Instructions: Baked biscuits freeze well for up to 3 months. Thaw at room temperature or in the refrigerator, then warm up to your liking before serving. You can also freeze the biscuit dough. Prepare the dough in steps 2 through 4. Wrap up tightly in plastic wrap (plastic wrap is best for freshness) and freeze for up to 3 months. Thaw overnight in the refrigerator, then continue with step 5. Also, after step 4, you can wrap the dough in plastic wrap and refrigerate for up to 2 days before continuing with step 5.
+    Special Tools (affiliate links): Pastry Cutter or Food Processor | 2.5- or 3-Inch Biscuit Cutter | 10-inch Cast Iron Skillet | Pastry Brush
+    Baking Powder: To avoid a chemical aftertaste, make sure your baking powder is labeled aluminum free. I usually use Clabber Girl brand and though the ingredients state aluminum, I’ve never noticed an aluminum aftertaste. Alternatively, you can reduce the baking powder down to 1 Tablespoon and add 1/2 teaspoon baking soda.
+    Butter: Cut into 1/2-inch cubes. Keep butter as cold as possible until you need it. I recommend placing the cubed butter in the freezer for about 15 minutes before you begin.
+    Buttermilk: You can substitute whole milk for buttermilk if desired. However if you’d like the tangy flavor, which I highly recommend, you can make your own sour milk substitute. Add 2 teaspoons of fresh lemon juice or white vinegar to a liquid measuring cup. Add enough milk to make 1 cup. (You need 1 cup in the recipe, plus 2 Tbsp for brushing–you can use regular milk to brush on top.) Whisk together, then let sit for 5 minutes before using in the recipe. Whole milk is best for the DIY sour milk substitute, though lower fat or nondairy milks work in a pinch. (In my testing, the biscuits don’t taste as rich or rise quite as tall using lower fat or nondairy milks.)
+    Cast Iron Skillet: If your cast iron skillet isn’t well seasoned, I recommend greasing it with a little vegetable oil or melted butter. Brush a thin layer of either on the bottom and around the sides. No need to heat the cast iron skillet before using, though you certainly can. Place in the preheated oven for 15 minutes before arranging the shaped biscuits in it.
+    Flavors: Try my flavorful biscuit variations: cheddar biscuits and everything bagel biscuits.
+
+Bonus: How to Get Crispy Biscuit Edges!
+
+Want a crisp edge on your buttermilk biscuits? I have you covered with these 2 steps:
+
+    Brush the tops with a little buttermilk, which helps achieve a slightly crispier top crust.
+    Bake biscuits in a cast iron skillet, which helps promise a crispy exterior.
+
+
 # Ice cream fudge + Cyclones
 
 fudge
