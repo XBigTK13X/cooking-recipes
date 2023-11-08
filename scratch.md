@@ -13,6 +13,12 @@
 
     1 teaspoon Kosher salt
 
+# Cupcakes
+
+Made a big batch for kat's work. Strawberry cake mix (Pillsbury, but their all the same). Sub milk for water. Bake in silicon molds set on a baking sheet lined with a silicon liner. 325 for 19 minutes. Let them cool enough to tough and then turn them out onto a cooling rack to cool completely.
+
+Take two cans off the shelf strawberry frosting. Whip in some strawberry extract, pinch of salt, one can cream cheese, and a couple tablespoons of powdered sugar to taste. Whip as much air as it will hold and then pipe it onto the cupcakes. Drop a dollop of peach jam in the middle of each frosting swirl. If you blend the peach jam, it will be too liquid and need thickening.
+
 # Biscuits
 
 This is the third or fourth recipe I've tried. Its the only one that's any good. Really close to a perfect biscuit. I like using a pizza cutter to make square biscuits, that way the dough doesn't need to be rerolled. I do try to trim the edges to allow even rising.
