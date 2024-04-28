@@ -13,6 +13,13 @@
 
     1 teaspoon Kosher salt
 
+# Spaghetti lavandino della cucina
+
+Cook a large amount of spaghetti in barely enough salted water. This will give you some exceptionally starchy liquid. Drain the noodles, reserving half a mug of salted pasta water. Rinse the noodles, then toss the noodles in a drizzle of olive oil and a few spoonfuls of marinara while draining.
+Throw a good amount of olive oil, three cloves of smashed garlic, one bell pepper, one yellow onion, and a pound of sweet italian sausage into a large sauce pan. Cook it all together until the sausage is done. The onions and peppers should still have some crunch to them.
+Add half a cup of cream, half a cup of milk, and the remaining jar of marinara to the sauce pan. Cook until heated through. Add reserved pasta water until desired saltiness and thickness is acheived.
+Plate spaghetti, top with sliced mushrooms and pepperoni. Laddle sauce on top. Hit with a big dash of red pepper flake and a light dusting of parmesan.
+
 # Cupcakes
 
 Made a big batch for kat's work. Strawberry cake mix (Pillsbury, but their all the same). Sub milk for water. Bake in silicon molds set on a baking sheet lined with a silicon liner. 325 for 19 minutes. Let them cool enough to tough and then turn them out onto a cooling rack to cool completely.
