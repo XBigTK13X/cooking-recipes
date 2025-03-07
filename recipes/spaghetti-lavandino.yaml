@@ -1,0 +1,40 @@
+name: Spaghetti Lavandino della Cucina
+ingredients:
+  - name: spaghetti noodles
+    amount: 1
+    unit: box
+  - name: olive oil
+    amount: 2
+    unit: tablespoons
+  - name: marinara
+    amount: 2
+    unit: jars
+  - name: italian sausage
+    amount: 1
+    unit: pound
+  - name: sweet bell pepper
+    amount: 1
+    prep: chopped
+  - name: sweet onion
+    amount: 1
+    prep: chopped
+  - name: garlic
+    amount: 3
+    unit: clove
+    prep: smashed
+  - name: heavy cream
+    amount: 1/2
+    unit: cup
+  - name: whole milk
+    amount: 1/2
+    unit: cup
+  - name: toppings (pepperoni, mushrooms, cheese)
+steps:
+  - step: Boil the spaghetti in just enough water. That will give you lots of starchy liquid after cooking.
+  - step: Sautee the chopped onion and bell pepper with a drizzle of olive oil and the italian sausage
+  - step: Cook the mix until the sausage is done, the aromatics should will be a little crunchy
+  - step: Cook the crushed garlic into the sausage mix until fragrent
+  - step: After draining the spaghetti, toss it with some marinara and olive oil
+  - step: Cook the milk, cream, and remaining marinara into the sausage mix
+  - step: Add pasta water until deserved thiness reached
+  - step: Plate spaghetti, sprinkle with toppings, laddle of sauce, sprinkle red pepper flakse and fresh grated parm.

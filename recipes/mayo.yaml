@@ -1,0 +1,28 @@
+name: mayo
+makes: half a mason jar
+ingredients:
+  - name: egg
+    amount: 1
+    unit: large
+  - name: acid (red wine vinegar, lemon juice, etc)
+    amount: 15
+    unit: milliliters
+  - name: emulsifier (dijon mustard)
+    amount: 5
+    unit: milliliters
+  - name: garlic (optional, don't usually add this)
+    amount: 1
+    unit: clove
+    prep: crushed
+  - name: neutral vegetable oil (not evoo)
+    amount: 240
+    unit: milliliters
+  - name: kosher salt
+    amount: 1/2
+    unit: teaspoon
+steps:
+  - step: Throw everything except the oil into a wide mouth mason jar
+  - step: Slowly pour the oil into the jar
+  - step: Sink an immersion blender to the bottom and blend on high until incorporated
+notes:
+  - Taken from <a href="https://www.seriouseats.com/two-minute-mayonnaise">Series Eats</a>

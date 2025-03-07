@@ -1,0 +1,38 @@
+name: Biscuits
+makes: 8 biscuits
+ingredients:
+  - name: ap flour
+    amount: 313
+    unit: grams
+  - name: alumiunum free power of baking
+    amount: 2
+    unit: tablespoons
+  - name: salt
+    amount: 1
+    unit: teaspoon
+  - name: unsalted butter
+    amount: 113
+    unit: grams
+  - name: buttermilk
+    amount: 1
+    unit: cup
+  - name: buttermilk
+    amount: 2
+    unit: tablespoons
+  - name: honey
+    amount: 14
+    unit: grams
+steps:
+  - step: Preheat oven to 425
+  - step: Mix the ap flour, salt, and powder of baking
+  - step: Cut butter into the dry mix until coarse crumbs
+  - step: Make a well, drizzle the honey and 1 cup of buttermilk into it
+  - step: Barely fold the wet into the dry
+  - step: Dump out the dough and gently bring together with extra flour
+  - step: Flatten with your hands into 3/4 inch high rectangle, fold bottom 1/3 to the middle and other side to the opposite edge.
+  - step: Turn 90 degrees and repeat 3 more times flattening and folding.
+  - step: Cut straight down into rounds and bake for 20 minutes or until tops are browned
+notes:
+  - I've tried a lot of biscuit receipes. This is the only good one.
+  - The colder the dough and butter, the better
+  - Taken from <a href="https://sallysbakingaddiction.com/flaky-buttermilk-biscuits/">Sally's Baking ADdiction</a>

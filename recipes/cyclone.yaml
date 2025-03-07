@@ -1,0 +1,33 @@
+name: Cyclone
+makes: 2 servings
+ingredients:
+  - name: premium frozen custard (i.e. Costco)
+    amount: 200
+    unit: grams
+  - name: mixins (see mods)
+    amount: 25
+    unit: grams
+  - name: premium choc chips
+    amount: 40
+    unit: grams
+  - name: vegetable oil
+    amount: 5
+    unit: grams
+  - name: heavy cream
+    amount: 5
+    unit: grams
+  - name: corn syrup
+    amount: 5
+    unit: grams
+steps:
+  - step: Microwave the chocolate chips, oil, and cream for 20 seconds
+  - step: Aggresively fold the corn syrup into the hot chocolate mix
+  - step: Allow the fudge drizzle to cool
+  - step: Spread the ice cream over a flat surface, like a large cutting board
+  - step: Sprinkle toppings and drizzle fudge over the ice cream
+  - step: Use an ice cream spade and bench scraper to quickly mix it all together
+  - step: Chuck the mix into two small bowls and freeze them for at least 15 minutes
+mods:
+  - These ingredients are per bowl (so double for a batch in the recipe)
+  - Drumstick -> 25g fudge, 15g unsalted roasted peanuts, 8g waffle cone or 15g animal cracker
+  - Peanut Butter Cup -> 2 Reeses eggs per bowl

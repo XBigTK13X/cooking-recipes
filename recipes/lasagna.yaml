@@ -1,0 +1,49 @@
+name: Lasagna
+makes: 4 trays
+ingredients:
+  - name: ground beef
+    amount: 2
+    unit: pounds
+  - name: sweet italian sausage
+    amount: 2
+    unit: pounds
+  - name: red pepper flake
+    amount: 1
+    unit: teapsoon
+  - name: Rao's Marinara
+    amount: 4
+    unit: jars
+  - name: ricota
+    amount: 2
+    unit: tubs
+  - name: mozzarella
+    amount: 1
+    unit: pound
+    prep: cubed
+  - name: parm
+    amount: 1
+    unit: cup
+    prep: grated
+  - name: eggs
+    amount: 2
+  - name: basil paste
+    amount: 1/3
+    unit: tube
+  - name: garlic
+    amount: 4
+    unit: cloves
+    prep: smashed
+  - name: Lasagna noodles
+    unit: boxes
+    amount: 2
+steps:
+  - step: Cook the beef and sausage together with red pepper flake
+  - step: Stir 3 of the marinara jars into the meat sauce, then leave alone
+  - step: In a large bowl mix the ricotta, mozzarella, parm, garlic, basil paste, and eggs to form the cheese sauce
+  - step: Either cook off lasagna noodles (better) or be lazy with oven-ready noodles (comes out almost as good)
+  - step: For each of the 4 trays, do a layer of meat sauce, then noodle, then cheese, then noodle, then meat, back and forth until finally meat on top
+  - step: For each tray (esp. if using oven ready noodles) pour marinara over the top so the sides aren't exposed raw noodle
+  - step: Throw in the freezer uncooked (use a deodorizer, it will stink up the freezer)
+  - step: When time to cook, hit the oven to 425 and bake covered for one hour
+  - step: Once internal temp hits at least 165, remove the cover and sprinkle pepperoni and mushrooms on top.
+  - step: Broil until the pepperoni is crispy.

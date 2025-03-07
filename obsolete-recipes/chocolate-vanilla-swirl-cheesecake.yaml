@@ -1,0 +1,45 @@
+name: chocolate vanilla swirl cheesecake
+ingredients:
+  - name: oreo
+    amount: 20
+    unit: cookies
+    pre: crushed
+  - name: butter
+    amount: 3
+    unit: tablespoon
+    prep: melted
+  - name: cream cheese
+    amount: 32
+    unit: ounces
+    prep: softened
+  - name: sugar
+    amount: 1
+    unit: cup
+  - name: vanilla
+    amount: 1
+    unit: teaspoon
+  - name: sour cream
+    amount: 1
+    unit: cup
+  - name: eggs
+    amount: 4
+  - name: semi-sweet baking chocolate
+    amount: 4
+    unit: squares
+    prep: melted
+steps:
+  - step: Preheat oven to 325
+  - step: Line a 13x9 baking pan with foil, leaving some foil hanging over the edge of the pan
+  - step: Mix cookie crumbs and butter
+  - step: Press crumb mixture into bottom of pan
+  - step: Bake for 10 minutes
+  - step: Beat cream cheese, sugar, and vanilla until well blended
+  - step: Mix in sour cream
+  - step: Mix eggs in one at a time
+  - step: Set aside 1 cup of the cream cheese batter
+  - step: Mix melted chocolate into remaining batter
+  - step: Pour chocolate batter over the cooked crust
+  - step: Drop spoonfuls of set aside batter into the pan
+  - step: Cut through the batters multiple times using a dull knife to create a marbling effect
+  - step: Bake for 40 minutes or until the center is almost set
+  - step: Cool and then refrigerate for at least 4 hours, preferably overnight

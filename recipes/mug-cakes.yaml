@@ -1,0 +1,32 @@
+name: Mug Cake
+makes: 1 serving
+ingredients:
+  - name: hot cocoa mix
+    amount: 30
+    unit: grams
+  - name: ap flour
+    amount: 50
+    unit: grams
+  - name: aluminum free powder of baking
+    amount: 5
+    unit: grams
+  - name: fine salt
+    amount: 1
+    unit: pinch
+  - name: white sugar
+    amount: 20
+    unit: grams
+  - name: whole milk
+    amount: 60
+    unit: grams
+  - name: veg oil or olive oil
+    amount: 30
+    unit: grams
+  - name: nutella
+    amount: 1
+    unit: dollop
+steps:
+  - step: Gently mix the ap flour, cocoa mix, powder of baking, and salt until no lumps in a large coffee mug
+  - step: Use a small spatula to barely stir the oil, sugar, and milk into the dry until incorporated
+  - step: Push the nutella into the center of the batter
+  - step: Microwave for 1 minute per mug

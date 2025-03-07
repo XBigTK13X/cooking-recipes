@@ -1,24 +1,76 @@
-# Mayo
+None of the stuff here is as thoroughly tested as the recipes on the main link
 
+https://xbigtk13x.github.io/cooking-recipes
 
-    2 large eggs
+# Reverse Sear Chart
+For 1 1/2–Inch Steaks in a 250°F (120°C) Oven
+| Doneness    | Target Temperature in the Oven | Final Target Temperature | Approximate Time in Oven |
+| ------------|--------------------------------|--------------------------|--------------------------|
+| Rare        | 105°F (40°C)                   | 120°F (49°C)             | 20 to 25 minutes         |
+| Medium-Rare | 115°F (46°C)                   | 130°F (54°C)             | 25 to 30 minutes         |
+| Medium      | 125°F (52°C)                   | 140°F (60°C)             | 30 to 35 minutes         |
+| Medium-Well | 135°F (57°C)                   | 150°F (66°C)             | 35 to 40 minutes         |
 
-    2 tablespoon (30ml) acid (red wine vinegar, lemon juice, etc)
+# Brownies
 
-    2 teaspoon mustard (dijon, spicy brown, etc)
+Just use godiva mix and add in 1 teaspoon cinnamon, 1 teaspoon instant coffee for bag. Sub water for milk. Bake 40 minutes. Can bake in a water bath to keep it extra gooey.
 
-    1 medium clove garlic, minced (optional, often don't add this)
+https://smittenkitchen.com/2010/01/best-cocoa-brownies/
 
-    2 cup (480ml) vegetable or canola oil
+https://smittenkitchen.com/2012/08/my-favorite-brownies/
 
-    1 teaspoon Kosher salt
+Batch c double coffee, 1 T cinnamon, extra egg yolk?
+1/2 cup butter vs oil
+Stir in some strawberry jam to create a second swirl batter
+Best version? Replace water with milk, bake 40 minutes
 
-# Spaghetti lavandino della cucina
+1 teaspoon instant coffee, 1 teaspoon cinnamon.
 
-Cook a large amount of spaghetti in barely enough salted water. This will give you some exceptionally starchy liquid. Drain the noodles, reserving half a mug of salted pasta water. Rinse the noodles, then toss the noodles in a drizzle of olive oil and a few spoonfuls of marinara while draining.
-Throw a good amount of olive oil, three cloves of smashed garlic, one bell pepper, one yellow onion, and a pound of sweet italian sausage into a large sauce pan. Cook it all together until the sausage is done. The onions and peppers should still have some crunch to them.
-Add half a cup of cream, half a cup of milk, and the remaining jar of marinara to the sauce pan. Cook until heated through. Add reserved pasta water until desired saltiness and thickness is acheived.
-Plate spaghetti, top with sliced mushrooms and pepperoni. Laddle sauce on top. Hit with a big dash of red pepper flake and a light dusting of parmesan.
+# Egg Drop Soup
+
+https://www.reddit.com/r/cookingforbeginners/comments/jc8uod/egg_drop_soup_is_comforting_and_insanely_simple/
+
+Seriously. It's basically just make liquid hot, add egg, stir. The way you doctor it up is completely up to you, but here's a very foundational recipe. This makes a single serving but can be scaled 1:1.
+
+Egg Drop Soup
+
+Ingredients
+
+1 cup chicken broth (or broth of your choice)
+
+1/4 to 1/3 teaspoon soy sauce, or to taste
+
+A few drops of sesame oil
+
+1 teaspoon cornstarch
+
+2 teaspoons cold water
+
+Pinch of salt if desired
+
+White pepper to taste (I don't always have this on hand and black pepper also works fine)
+
+Method
+
+Mix together liquid ingredients in a small pot
+
+Make a slurry using the cornstarch and just a bit of cold water. To do this, whisk the cornstarch and cold water in a small bowl briskly until it combines into a thick, almost batter-like, liquid. Doing this will prevent the cornstarch from clumping up in the soup.
+
+Add slurry to the hot broth while stirring to thicken. Now is a good time to carefully take a taste and see how much salt and pepper it needs. I like my soups salty, but having already added broth and soy sauce, this one is often salty enough already.
+
+THE FUN PART! Beat an egg and drop that bad boy in the pot once the water comes to a low boil. Immediately turn off the heat while stirring (in one direction) as the egg will continue to cook in the residual heat. You can let it boil while stirring for a moment if you like a firmer egg, but I enjoy them whispy.
+
+Enjoy while hot!
+
+Notes
+
+Stir either clockwise or counterclockwise, but not both. Stirring in one direction gives the eggs that whispy but fluffy texture.
+
+The color will probably look a bit bland compared to what you are used to from takeout places. I assume they either add some coloring or maybe use a white soy sauce? I dunno, but this one is just as good.
+
+I go easy on sesame oil because I find it can easily get overpowering, but feel free to add more if you love the stuff.
+
+Keep it casual when making this. The base of it is broth, soy sauce, and egg, beyond that is your playground. This recipe is meant to be a jumping off point. I'll include some variations in the comments.
 
 # Cupcakes
 
@@ -26,83 +78,6 @@ Made a big batch for kat's work. Strawberry cake mix (Pillsbury, but their all t
 
 Take two cans off the shelf strawberry frosting. Whip in some strawberry extract, pinch of salt, one can cream cheese, and a couple tablespoons of powdered sugar to taste. Whip as much air as it will hold and then pipe it onto the cupcakes. Drop a dollop of peach jam in the middle of each frosting swirl. If you blend the peach jam, it will be too liquid and need thickening.
 
-# Biscuits
-
-This is the third or fourth recipe I've tried. Its the only one that's any good. Really close to a perfect biscuit. I like using a pizza cutter to make square biscuits, that way the dough doesn't need to be rerolled. I do try to trim the edges to allow even rising.
-
-https://sallysbakingaddiction.com/flaky-buttermilk-biscuits/
-
-
-Homemade Buttermilk Biscuits
-★★★★★ 4.8 from 421 reviews
-
-    Author: Sally Prep Time: 20 minutes Cook Time: 15 minutes Total Time: 35 minutes Yield: 8-10 biscuits 
-
-Print Recipe
-Pin Recipe
-Description
-
-These homemade buttermilk biscuits are soft and buttery with hundreds of flaky layers! This biscuit recipe only requires 6 simple ingredients and they’re ready in about 35 minutes.
-Ingredients
-
-    2 and 1/2 cups (313g) all-purpose flour (spooned & leveled), plus more as needed for hands and work surface
-    2 Tablespoons aluminum free baking powder (yes, Tablespoons)
-    1 teaspoon salt
-    1/2 cup (1 stick; 113g) unsalted butter, cubed and very cold (see note)
-    1 cup + 2 Tablespoons (270ml) cold buttermilk, divided
-    2 teaspoons (14g) honey
-    optional honey butter topping: 2 Tablespoons melted butter mixed with 1 Tablespoon honey
-
-Instructions
-
-    Preheat oven to 425°F (218°C).
-    Make the biscuits: Place the flour, baking powder, and salt together in a large bowl or in a large food processor. Whisk or pulse until combined. Add the cubed butter and cut into the dry ingredients with a pastry cutter or by pulsing several times in the processor. Cut/pulse until coarse crumbs form. See photo above for a visual. If you used a food processor, pour the mixture into a large bowl.
-    Make a well in the center of the mixture. Pour 1 cup (240ml) buttermilk and drizzle honey on top. Fold everything together with a large spoon or spatula until it begins to come together. Do not overwork the dough. The dough will be shaggy and crumbly with some wet spots. See photo above for a visual.
-    Pour the dough and any dough crumbles onto a floured work surface and gently bring together with generously floured hands. The dough will become sticky as you bring it together. Have extra flour nearby and use it often to flour your hands and work surface in this step. Using floured hands, flatten into a 3/4 inch thick rectangle as best you can. Fold one side into the center, then the other side on top. Turn the dough horizontally. Gently flatten into a 3/4 inch thick rectangle again. Repeat the folding again. Turn the dough horizontally one more time. Gently flatten into a 3/4 inch thick rectangle. Repeat the folding one last time. Flatten into the final 3/4 inch thick rectangle.
-    Cut into 2.5 or 3-inch circles with a biscuit cutter. (Tip: Do not twist the biscuit cutter when pressing down into the dough because this seals off the edges of the biscuit which prevents them from fully rising.) Re-roll scraps until all the dough is used. You should have about 8-10 biscuits. Arrange in a 10-inch cast iron skillet (see note) or close together on a parchment paper-lined baking sheet. Make sure the biscuits are touching.
-    Brush the tops with remaining buttermilk. Bake for 18-20 minutes or until tops are golden brown.
-    Remove from the oven, and then brush warm tops with optional honey butter, and serve warm.
-    Cover leftovers tightly and store at room temperature or in the refrigerator for up to 5 days.
-
-Notes
-
-    Make Ahead & Freezing Instructions: Baked biscuits freeze well for up to 3 months. Thaw at room temperature or in the refrigerator, then warm up to your liking before serving. You can also freeze the biscuit dough. Prepare the dough in steps 2 through 4. Wrap up tightly in plastic wrap (plastic wrap is best for freshness) and freeze for up to 3 months. Thaw overnight in the refrigerator, then continue with step 5. Also, after step 4, you can wrap the dough in plastic wrap and refrigerate for up to 2 days before continuing with step 5.
-    Special Tools (affiliate links): Pastry Cutter or Food Processor | 2.5- or 3-Inch Biscuit Cutter | 10-inch Cast Iron Skillet | Pastry Brush
-    Baking Powder: To avoid a chemical aftertaste, make sure your baking powder is labeled aluminum free. I usually use Clabber Girl brand and though the ingredients state aluminum, I’ve never noticed an aluminum aftertaste. Alternatively, you can reduce the baking powder down to 1 Tablespoon and add 1/2 teaspoon baking soda.
-    Butter: Cut into 1/2-inch cubes. Keep butter as cold as possible until you need it. I recommend placing the cubed butter in the freezer for about 15 minutes before you begin.
-    Buttermilk: You can substitute whole milk for buttermilk if desired. However if you’d like the tangy flavor, which I highly recommend, you can make your own sour milk substitute. Add 2 teaspoons of fresh lemon juice or white vinegar to a liquid measuring cup. Add enough milk to make 1 cup. (You need 1 cup in the recipe, plus 2 Tbsp for brushing–you can use regular milk to brush on top.) Whisk together, then let sit for 5 minutes before using in the recipe. Whole milk is best for the DIY sour milk substitute, though lower fat or nondairy milks work in a pinch. (In my testing, the biscuits don’t taste as rich or rise quite as tall using lower fat or nondairy milks.)
-    Cast Iron Skillet: If your cast iron skillet isn’t well seasoned, I recommend greasing it with a little vegetable oil or melted butter. Brush a thin layer of either on the bottom and around the sides. No need to heat the cast iron skillet before using, though you certainly can. Place in the preheated oven for 15 minutes before arranging the shaped biscuits in it.
-    Flavors: Try my flavorful biscuit variations: cheddar biscuits and everything bagel biscuits.
-
-Bonus: How to Get Crispy Biscuit Edges!
-
-Want a crisp edge on your buttermilk biscuits? I have you covered with these 2 steps:
-
-    Brush the tops with a little buttermilk, which helps achieve a slightly crispier top crust.
-    Bake biscuits in a cast iron skillet, which helps promise a crispy exterior.
-
-
-# Ice cream fudge + Cyclones
-
-fudge
-Makes two cyclones worth
-  - choc chip 40g (white Costco bag, the good stuff)
-  - veg oil 5g
-  - cream 5g
-  - corn syrup 5g
-
-Nuke choc chips, oil, and cream for 20 seconds. Agressively fold in corn syrup and cool.
-
-cyclone - drumstick
-  - fudge 25g 
-  - unsalted roasted peanuts 15g 
-  - waffle cone pieces 8g (or animal cracker/ghrahm cracker 15g)
-  - premium frozen custard (like costco vanilla) 200g or 1 cup (whichever is less)(lower quality ice creams would take too much volume to hit 200g)
-
-Spread the ice cream on a large flat surface. Sprinkle on toppings and drop a couple spots of fudge. Quickly whack at it with an ice cream spade and bench scraper until it just comes together. Hit the freezer for 15 minutes.
-
-cyclone - pb cup
-same as above, but ice cream only plus 36g of reece's peanut butter eggs, hearts, or trees. Add in 5-10g of unsalted roasted peanuts to take it to the next level. Make sure to work it a little so the PB gets partially incorporated in the ice cream.
 
 # Peanut Butter Hummus
 
@@ -142,15 +117,6 @@ serve for Tim
 1/4 cup high quality (white bag costco) choc chips
 
 splash vanilla, dash nutmeg, sprinkle instant coffee, two soft peppermint candies
-
-# Reverse Sear Chart
-For 1 1/2–Inch Steaks in a 250°F (120°C) Oven
-| Doneness    | Target Temperature in the Oven | Final Target Temperature | Approximate Time in Oven |
-| ------------|--------------------------------|--------------------------|--------------------------|
-| Rare        | 105°F (40°C)                   | 120°F (49°C)             | 20 to 25 minutes         |
-| Medium-Rare | 115°F (46°C)                   | 130°F (54°C)             | 25 to 30 minutes         |
-| Medium      | 125°F (52°C)                   | 140°F (60°C)             | 30 to 35 minutes         |
-| Medium-Well | 135°F (57°C)                   | 150°F (66°C)             | 35 to 40 minutes         |
 
 # Funeral Potatoes
 Funeral Potatoes
@@ -249,18 +215,6 @@ Cranberry 3 spoon
 Pepper
 Celery. 2 Stalk
 - cranberry sauce at the last minute, otherwise acids the meat
-
-# Brownies
-https://smittenkitchen.com/2010/01/best-cocoa-brownies/
-
-https://smittenkitchen.com/2012/08/my-favorite-brownies/
-
-Batch c double coffee, 1 T cinnamon, extra egg yolk?
-1/2 cup butter vs oil
-Stir in some strawberry jam to create a second swirl batter
-Best version? Replace water with milk, bake 40 minutes
-
-1 teaspoon instant coffee, 1 teaspoon cinnamon.
 
 # Cookie dough cookies
 
