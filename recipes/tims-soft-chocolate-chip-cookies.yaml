@@ -1,5 +1,6 @@
-name: tim's cookie dough cookies
+name: tim's soft chocolate chip cookies
 makes: 12 cookies
+version: 4
 ingredients:
   - name: butter
     amount: 113
@@ -47,7 +48,7 @@ ingredients:
     amountVolume: 1/2
     unitVolume: cup
 steps:
-  - step: Preheat oven to 350
+  - step: Preheat oven to 325
   - step: Mix flour, salt, pudding mix, and soda of baking in a small bowl
   - step: Cream the light brown sugar and white sugar into the butter in a second, larger bowl with a silicone spatula
   - step: Mix in egg and vanilla until air incorporates into the dough, making it lighter
@@ -55,12 +56,12 @@ steps:
   - step: Gently fold in chocolate chips
   - step: (Optional) Refrigerate the dough for at least 4 hours to improve flavor and texture
   - step: Measure the dough and divide into 12-14 cookies (40-50g per cookie recommended)
-  - step: Evenly space the balls on the cookie sheet
-  - step: Bake the cookies for 12 minutes, or until the bottoms are barely golden brown
+  - step: Evenly space the balls on a silicon lined half sheet pan
+  - step: Bake the cookies for 13 minutes, or until the bottoms are barely golden brown
   - step: Quickly move the cookies from the sheet pan onto a cooling rack lined with parchment
 notes:
-  - The cookies should appear slightly undercooked, do not put them back in the oven
-  - This is an original recipe. I wanted a cookie that stayed soft for days in a row and felt like eating barely set cookie dough.
+  - The original version of this provided an underbacked doughy consistency, we no longer prefer that over the fully set cookie.
+  - If upping the size to 90g per cookie, then up bake time to 18 minutes
 mods:
   - <h3>Gluten Free</h3>
   - Substitute the ap flour 1 to 1 with Namaste Perfect Flour Blend. Add 1 tablespoon / 15 grams of whole milk to the wet ingredients.

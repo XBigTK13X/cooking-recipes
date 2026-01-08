@@ -1,0 +1,79 @@
+name: banana bread
+makes: 1 round cake pan
+version: 2
+ingredients:
+  - name: unsalted butter
+    amount: 113
+    unit: grams
+    prep: melted
+  - name: egg
+    amount: 2
+  - name: banana
+    amount: 340
+    unit: grams
+    prep: overripe
+  - name: sour cream
+    unit: grams
+    amount: 100
+  - name: brown sugar
+    amount: 150
+    unit: grams
+  - name: apricot jam or orange marmalade
+    amount: 60
+    unit: grams
+  - name: honey
+    amount: 80
+    unit: grams
+  - name: cinnamon
+    amount: 3
+    unit: grams
+    amountVolume: 1
+    unitVolume: teaspoon
+  - name: nutmeg
+    amount: 1
+    unit: grams
+    amountVolume: 1/4
+    unitVolume: teaspoon
+  - name: soda of baking
+    amount: 3
+    unit: grams
+    amountVolume: 1
+    unitVolume: teaspoon
+  - name: powder of baking
+    amount: 3
+    unit: grams
+    amountVolume: 1
+    unitVolume: teaspoon
+  - name: table salt
+    amount: 3
+    unit: grams
+    amountVolume: 1
+    unitVolume: teaspoon
+  - name: vanilla extract
+    amount: 3
+    unit: grams
+    amountVolume: 1
+    unitVolume: teaspoon
+  - name: ap flour
+    amount: 275
+    unit: grams
+  - name: pecans
+    amount: 60
+    unit: grams
+    prep: chopped
+  - name: chocolate
+    amount: 100
+    unit: grams
+    prep: chopped
+steps:
+  - step: Preheat the oven to 325 degrees
+  - step: Spray a cake round with cooking spray, cover the bottom with parchment, spray the parchment
+  - step: Melt the butter in the microwave in a large mixing bowl
+  - step: Mash the bananas into the melted butter using a potato masher
+  - step: Stir in everything except the ap flour, chocolate, and pecans
+  - step: Once well mixed, gently fold in the ap flour, chocolate, and pecans
+  - step: Pour into a cake round and bake for ~1 hour, or until the cake is completely set and springs back when patted (~210 F). If the top is getting too dark around ~45 minutes, then tent with foil.
+  - step: Rest for half an hour in the round, then remove to a cooling rack to cool completely.
+  - step: Eat immediately, or cut into sixths and freeze
+notes:
+  - modified from <a href="">King Arthur Banana Bread</a>
