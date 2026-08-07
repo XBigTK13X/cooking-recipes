@@ -1,0 +1,80 @@
+name: chili
+makes: 12 quarts
+version: 1
+ingredients:
+  - name: oil
+    amount: 100
+    unit: grams
+  - name: chili powder
+    amount: 70
+    unit: grams
+  - name: paprika spanish
+    amount: 45
+    unit: grams
+  - name: cumin
+    amount: 35
+    unit: grams
+  - name: garlic powder
+    amount: 25
+    unit: grams
+  - name: onion powder
+    amount: 25
+    unit: grams
+  - name: oregano
+    amount: 10
+    unit: grams
+  - name: cocoa
+    amount: 15
+    unit: grams
+  - name: instant coffee powder
+    amount: 5
+    unit: grams
+  - name: cayenne
+    amount: 3
+    unit: grams
+  - name: san marzano tomatoes (106 oz)
+    amount: 1
+    unit: can
+  - name: diced tomatoes (14.5 oz each)
+    amount: 2
+    unit: cans
+  - name: san marzano tomatoes (28 oz each)
+    amount: 2
+    unit: cans
+  - name: black beans (15 oz each)
+    amount: 2
+    unit: cans
+  - name: great northern beans
+    amount: 1
+    unit: can
+  - name: cannellini beans
+    amount: 1
+    unit: can
+  - name: light red kidney beans
+    amount: 1
+    unit: can
+  - name: worcestershire sauce
+    amount: 4
+    unit: dashes
+  - name: brown sugar
+    amount: 50
+    unit: grams
+  - name: white sugar
+    amount: 50
+    unit: grams
+  - name: medium cornmeal
+    amount: 50
+    unit: grams
+  - name: beef bouillon
+    amount: 3
+    unit: heaping dinner spoons
+  - name: chipotle tabasco
+    amount: 5-6
+    unit: shakes
+steps:
+  - step: Bloom spices in enough oil to bring them together
+  - step: Mash big can tomatoes into oil/spice
+  - step: Add canned tomatoes, beans, and worcestershire sauce
+  - step: Once all mixed, add brown sugar
+  - step: Bring to boil, then low simmer all day
+  - step: Add white sugar, medium cornmeal, beef bouillon, and chipotle tabasco when halfway through the day
